@@ -132,10 +132,10 @@ http://213.174.8.7:11111/index.m3u8
 #EXTINF:-1 tvg-logo="assets/images/channels/logo_disnep.png" group-title="KIDS", Disney Channel
 https://liveanevia.mncnow.id/live/eds/DisneyChannel/sa_hls/DisneyChannel-avc1_2499968=7-mp4a_98800_ind=9.m3u8
 
-#EXTINF:-1 tvg-logo="assets/images/channels/logo_disnepj.png" group-title="KIDS", Disney Junior
+#EXTINF:-1 tvg-logo="/assets/images/channels/logo_disnepj.png" group-title="KIDS", Disney Junior
 http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8
 
-#EXTINF:-1 tvg-logo="assets/images/channels/logo_disnepxd.png" group-title="KIDS", Disney XD
+#EXTINF:-1 tvg-logo="https://imgur.com/RrfG5vz" group-title="KIDS", Disney XD
 https://liveanevia.mncnow.id/live/eds/DisneyXD/sa_hls/DisneyXD.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_dreamworks_big1.png" group-title="KIDS", Dreamworks
