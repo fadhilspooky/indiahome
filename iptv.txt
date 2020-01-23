@@ -138,13 +138,13 @@ http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/fadhilspooky/indiahome/master/assets/images/channels/logo_disnepxd.png" group-title="KIDS", Disney XD
 https://liveanevia.mncnow.id/live/eds/DisneyXD/sa_hls/DisneyXD.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channels/logo_dreamworks_big1.png" group-title="KIDS", Dreamworks
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_dreamworks_big1.png" group-title="KIDS", Dreamworks
 rtp://@239.1.1.139:8808
 
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channels/logo_duck_big1.png" group-title="KIDS", Duck TV
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_duck_big1.png" group-title="KIDS", Duck TV
 http://livecdnh3.tvanywhere.ae/hls/duck/06.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channels/logo_horee_big.png" group-title="KIDS", Horee
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_horee_big.png" group-title="KIDS", Horee
 https://dl.dropbox.com/s/b6fas6znw4nylec/Hore.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/fadhilspooky/indiahome/master/assets/images/channels/logo_miamomi.png" group-title="KIDS", Miamo Mi
