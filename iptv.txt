@@ -114,19 +114,19 @@ http://203.153.218.28:9981/stream/channelid/1497533758?ticket=36B439E64C5884A941
 #EXTINF:-1 tvg-logo="assets/images/channels/logo_3abnkids.png" group-title="KIDS", 3ABN Kids
 https://moiptvhls-i.akamaihd.net/hls/live/652318/secure/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_babyfirst_big.png" group-title="KIDS", Baby Fist
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channels/logo_babyfirst_big.png" group-title="KIDS", Baby Fist
 http://ms003.happytv.com.tw/live/F9YMztT5DcwWEr1f/index.m3u8
 
 #EXTINF:-1 tvg-logo="assets/images/channels/logo_babytv.png" group-title="KIDS", Baby TV
 https://liveanevia.mncnow.id/live/eds/BabyTV/sa_hls/BabyTV-avc1_2499968=10-mp4a_98800_eng=5.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_boomerang_big.png" group-title="KIDS", Boomerang
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channels/logo_boomerang_big.png" group-title="KIDS", Boomerang
 https://liveanevia.mncnow.id/live/eds/Boomerang/sa_hls/Boomerang-avc1_2499968=10-mp4a_98800_ind=15.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_cartoonnetwork_big.png" group-title="KIDS", Cartoon Network
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channels/logo_cartoonnetwork_big.png" group-title="KIDS", Cartoon Network
 https://liveanevia.mncnow.id/live/eds/CartoonNetwork/sa_hls/CartoonNetwork-avc1_2499968=10-mp4a_98800_ind=16.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_davinci_big1.png" group-title="KIDS", Da Vinci
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channels/logo_davinci_big1.png" group-title="KIDS", Da Vinci
 http://213.174.8.7:11111/index.m3u8
 
 #EXTINF:-1 tvg-logo="assets/images/channels/logo_disnep.png" group-title="KIDS", Disney Channel
@@ -135,16 +135,16 @@ https://liveanevia.mncnow.id/live/eds/DisneyChannel/sa_hls/DisneyChannel-avc1_24
 #EXTINF:-1 tvg-logo="/assets/images/channels/logo_disnepj.png" group-title="KIDS", Disney Junior
 http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/RrfG5vz" group-title="KIDS", Disney XD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RrfG5vz.png" group-title="KIDS", Disney XD
 https://liveanevia.mncnow.id/live/eds/DisneyXD/sa_hls/DisneyXD.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_dreamworks_big1.png" group-title="KIDS", Dreamworks
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channels/logo_dreamworks_big1.png" group-title="KIDS", Dreamworks
 rtp://@239.1.1.139:8808
 
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_duck_big1.png" group-title="KIDS", Duck TV
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channels/logo_duck_big1.png" group-title="KIDS", Duck TV
 http://livecdnh3.tvanywhere.ae/hls/duck/06.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_horee_big.png" group-title="KIDS", Horee
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channels/logo_horee_big.png" group-title="KIDS", Horee
 https://dl.dropbox.com/s/b6fas6znw4nylec/Hore.m3u8
 
 #EXTINF:-1 tvg-logo="assets/images/channels/logo_miamomi.png" group-title="KIDS", Miamo Mi
@@ -156,7 +156,7 @@ https://liveanevia.mncnow.id/live/eds/Nickelodeon/sa_hls/Nickelodeon-avc1_100000
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_nickjr_big.png" group-title="KIDS", Nick JR
 https://liveanevia.mncnow.id/live/eds/NickJr/sa_hls/NickJr-avc1_1000000=8-mp4a_98800_eng=4.m3u8
 
-#EXTINF:-1 tvg-logo="KOSONG" group-title="KIDS", Nicktoons
+#EXTINF:-1 tvg-logo="assets/images/channels/logo_nicktoons.png" group-title="KIDS", Nicktoons
 http://213.252.252.17/live/eds/Nicktoons/HLS_encr/Nicktoons.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_spacetoonplus_big1.png" group-title="KIDS", Spacetoon Plus
