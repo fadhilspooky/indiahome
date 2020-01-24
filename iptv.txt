@@ -11,7 +11,7 @@ https://liveanevia.mncnow.id/live/eds/BaliTV/sa_hls/BaliTV.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_daaitv_big1.png" group-title="LOKAL", DAII TV
 http://45.126.83.51/qwr9ew/s/s13/index.m3u8
 
-#EXTINF:-1 tvg-logo="KOSONG" group-title="LOKAL", GLOBAL TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/fadhilspooky/indiahome/master/assets/images/channels/logo_gtv.png" group-title="LOKAL", GLOBAL TV
 https://live.rctiplus.id/rctiplus/gtv_720p.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_idku2_big.png" group-title="LOKAL", Idku
@@ -20,13 +20,13 @@ https://livetvhooq.akamaized.net/8d310f35fdf349daab8e0610161060f1/eu-central-1/5
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_indosiar_big1.png" group-title="LOKAL", INDOSIAR
 http://210.210.155.35/session/4a2efd20-a94d-11e9-bbad-c81f66f89318/qwr9ew/s/s04/02.m3u8
 
-#EXTINF:-1 tvg-logo="KOSONG" group-title="LOKAL", INEWS TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/fadhilspooky/indiahome/master/assets/images/channels/logo_inews.png" group-title="LOKAL", INEWS TV
 https://live.rctiplus.id/rctiplus/inews_720p.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_jaktv_big1.png" group-title="LOKAL", JAK TV
-http://zaman-now.com/﻿zxtvxz﻿/JAKTV
+https://liveanevia.mncnow.id/live/eds/JakTV/sa_hls/JakTV.m3u8
 
-#EXTINF:-1 tvg-logo="KOSONG" group-title="LOKAL", Jawapos TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/fadhilspooky/indiahome/master/assets/images/channels/logo_jawapos.png" group-title="LOKAL", Jawapos TV
 https://dl.dropbox.com/s/c5pe05bpznbafh3/Jawapos2.m3u8?dl=0
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_jitv_big.png" group-title="LOKAL", JITV
@@ -41,7 +41,7 @@ http://210.210.155.35/session/69927436-1aa3-11ea-a103-acecbc14f551/qwr9ew/s/s104
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_metrotv_big1.png" group-title="LOKAL", METROTV
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w1354494356_b1492000_sleng.m3u8
 
-#EXTINF:-1 tvg-logo="KOSONG" group-title="LOKAL", MNCTV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/fadhilspooky/indiahome/master/assets/images/channels/logo_mnctv.png" group-title="LOKAL", MNCTV
 https://live.rctiplus.id/rctiplus/mnctv_720p.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_mytv_big.png" group-title="LOKAL", Mytv
@@ -53,7 +53,7 @@ https://anevia115.mncnow.id/live/eds/NetTV/sa_hls/NetTV-avc1_1000000=9-mp4a_9880
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_rtv_big1.png" group-title="LOKAL", Rajawali TV
 http://210.210.155.35/session/7a9be4ec-f443-11e8-a629-b82a72d63267/qwr9ew/s/s12/01.m3u8
 
-#EXTINF:-1 tvg-logo="KOSONG" group-title="LOKAL", RCTI
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/fadhilspooky/indiahome/master/assets/images/channels/logo_rcti.png" group-title="LOKAL", RCTI
 https://live.rctiplus.id/rctiplus/rcti_720p.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_rri_big1.png" group-title="LOKAL", RRI NET
@@ -129,13 +129,13 @@ https://liveanevia.mncnow.id/live/eds/CartoonNetwork/sa_hls/CartoonNetwork-avc1_
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_davinci_big1.png" group-title="KIDS", Da Vinci
 http://213.174.8.7:11111/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/fadhilspooky/indiahome/master/assets/images/channels/logo_disnep.png" group-title="KIDS", Disnep Channel
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/fadhilspooky/indiahome/master/assets/images/channels/logo_disney.png" group-title="KIDS", Disney Channel
 https://liveanevia.mncnow.id/live/eds/DisneyChannel/sa_hls/DisneyChannel-avc1_2499968=7-mp4a_98800_ind=9.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/fadhilspooky/indiahome/master/assets/images/channels/logo_disnepj.png" group-title="KIDS", Disnep Junior
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/fadhilspooky/indiahome/master/assets/images/channels/logo_disneyjr.png" group-title="KIDS", Disney Junior
 http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/fadhilspooky/indiahome/master/assets/images/channels/logo_disnepxd.png" group-title="KIDS", Disnep XD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/fadhilspooky/indiahome/master/assets/images/channels/logo_disneyxd.png" group-title="KIDS", Disney XD
 https://liveanevia.mncnow.id/live/eds/DisneyXD/sa_hls/DisneyXD.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_dreamworks_big1.png" group-title="KIDS", Dreamworks
@@ -238,7 +238,7 @@ http://210.210.155.35:80/session/676c25ba-724e-11e9-834b-8ac28bf32f5a/dr9445/h/h
 http://203.153.218.28:9981/stream/channelid/1299824667?ticket=EDA811CE90A26AD414D02B63E0A9171A68A9454C&profile=pass
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_cctv4_big1.png" group-title="ENTERTAINMENT", CCTV 4
-http://39.135.34.150:18890/0000000https://cdnjt23.useetv.com/joss/14/cctv4/playlist.m3u8?enc=Uf2lb9dgcC4TJeAoNfbUoA&exp=1579779397&encp=-eZaWdwQD2ai7_07iNioTQ&expp=1579788097
+http://45.126.83.51/qwr9ew/s/s19/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_dunialain_big.png" group-title="ENTERTAINMENT", Dunia Lain
 https://dl.dropbox.com/s/fo0fid5071uwwcn/dunialain.m3u8?dl=0
@@ -256,7 +256,7 @@ http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:hich/chunklist.m3u8
 https://liveanevia.mncnow.id/live/eds/Lifetime/sa_hls/Lifetime.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_kbsworld_big.png" group-title="ENTERTAINMENT", KBS World
-rtp://@239.1.1.75:8424
+http://210.210.155.35:80/session/4bbb073a-34cf-11e9-8af5-9ad690129ed3/qwr9ew/s/s42/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_kix_big.png" group-title="ENTERTAINMENT", KIX
 https://liveanevia.mncnow.id/live/eds/KIX/sa_hls/KIX.m3u8
