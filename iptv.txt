@@ -1,27 +1,32 @@
+# FREE IPTV Premium Playlist Indonesia Channels
+# TIDAK UNTUK DI PERJUAL BELIKAN!
+# Get updates : github.com/fadhilspooky/indiahome
+# 1 mbps internet speed requried
+
 #LOKAL
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_antara_big1.png" group-title="LOKAL", Antara
 https://cdnjt23.useetv.com/joss/14/antara/playlist.m3u8?enc=DYNZXTbbz4BzGLNr1XnMOw&exp=1579779564&encp=hPviwIrgYDvxHFnTH_Cblg&expp=1579788264
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_antv_big1.png" group-title="LOKAL", ANTV
-http://210.210.155.35/qwr9ew/s/s102/01.m3u8
+https://liveanevia.mncnow.id/live/eds/ANTV/sa_hls/ANTV.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_balitv_big1.png" group-title="LOKAL", Bali TV
 https://liveanevia.mncnow.id/live/eds/BaliTV/sa_hls/BaliTV.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_daaitv_big1.png" group-title="LOKAL", DAII TV
-http://45.126.83.51/qwr9ew/s/s13/index.m3u8
+https://liveanevia.mncnow.id/live/eds/DAAITV/sa_hls/DAAITV.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/fadhilspooky/indiahome/master/assets/images/channels/logo_gtv.png" group-title="LOKAL", GLOBAL TV
-https://live.rctiplus.id/rctiplus/gtv_720p.m3u8
+https://liveanevia.mncnow.id/live/eds/GlobalTV/sa_hls/GlobalTV.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_idku2_big.png" group-title="LOKAL", Idku
 https://livetvhooq.akamaized.net/8d310f35fdf349daab8e0610161060f1/eu-central-1/5493668622001/profile_1/chunklist.m3u8?hdnts=st=1572048854~exp=9007200826789845~acl=/8d310f35fdf349daab8e0610161060f1/*/profile_1/chunklist.m3u8*~hmac=eb90616605948f62a0c512ed38cdd06b0f5cf7bce0fee578df3441455b550da6
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_indosiar_big1.png" group-title="LOKAL", INDOSIAR
-http://210.210.155.35/session/4a2efd20-a94d-11e9-bbad-c81f66f89318/qwr9ew/s/s04/02.m3u8
+https://liveanevia.mncnow.id/live/eds/Indosiar/sa_hls/Indosiar.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/fadhilspooky/indiahome/master/assets/images/channels/logo_inews.png" group-title="LOKAL", INEWS TV
-https://live.rctiplus.id/rctiplus/inews_720p.m3u8
+https://liveanevia.mncnow.id/live/eds/iNewsTV/sa_hls/iNewsTV.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_jaktv_big1.png" group-title="LOKAL", JAK TV
 https://liveanevia.mncnow.id/live/eds/JakTV/sa_hls/JakTV.m3u8
@@ -33,16 +38,16 @@ https://dl.dropbox.com/s/c5pe05bpznbafh3/Jawapos2.m3u8?dl=0
 https://cdnjt23.useetv.com/joss/14/jitv/playlist.m3u8?enc=JeYnkd17Cp2KXGKfPszGSQ&exp=1579779523&encp=PrYYsOiQ9pUdKsHJ8DifTA&expp=1579788223
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_jtv_big1.png" group-title="LOKAL", JTV
-https://livetvhooq.akamaized.net/ae74dfdacfc1474ebacda1990c3dc338/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1578737355~exp=9007200833478346~acl=/ae74dfdacfc1474ebacda1990c3dc338/*/profile_0/chunklist.m3u8*~hmac=38fffe01dee4cdd681554c4a989a37ce79cb84f3d782a9ba5dd8997ddf403d67&hdnts=st=1578737356~exp=1578737476~acl=/*~id=69e868e0-65de-48a7-a997-65e76560ba94~data=36.75.70.213~hmac=8a97806bfb9c8ccb8bb2e6af1a63ffde0cedf4d14618ca0d3e7c8cd80fd10c6f
+https://liveanevia.mncnow.id/live/eds/JTV/sa_hls/JTV.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_kompastv_big.png" group-title="LOKAL", Kompas TV
-http://210.210.155.35/session/69927436-1aa3-11ea-a103-acecbc14f551/qwr9ew/s/s104/01.m3u8
+https://liveanevia.mncnow.id/live/eds/KompasTV/sa_hls/KompasTV.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_metrotv_big1.png" group-title="LOKAL", METROTV
-http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w1354494356_b1492000_sleng.m3u8
+https://liveanevia.mncnow.id/live/eds/MetroTV/sa_hls/MetroTV.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/fadhilspooky/indiahome/master/assets/images/channels/logo_mnctv.png" group-title="LOKAL", MNCTV
-https://live.rctiplus.id/rctiplus/mnctv_720p.m3u8
+https://liveanevia.mncnow.id/live/eds/MNCTV/sa_hls/MNCTV.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_mytv_big.png" group-title="LOKAL", Mytv
 https://livetvhooq.akamaized.net:443/b2fec42490a14386ac53eafa47f590a7/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1573597923~exp=9007200828338914~acl=/b2fec42490a14386ac53eafa47f590a7/*/profile_0/chunklist.m3u8*~hmac=15a17e5b10bc2f36b6fbe927f137fff5a759fcc501c3d6712d5976a51a9b45ea
@@ -51,7 +56,7 @@ https://livetvhooq.akamaized.net:443/b2fec42490a14386ac53eafa47f590a7/ap-southea
 https://anevia115.mncnow.id/live/eds/NetTV/sa_hls/NetTV-avc1_1000000=9-mp4a_98800_eng=5.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_rtv_big1.png" group-title="LOKAL", Rajawali TV
-http://210.210.155.35/session/7a9be4ec-f443-11e8-a629-b82a72d63267/qwr9ew/s/s12/01.m3u8
+https://liveanevia.mncnow.id/live/eds/RTV/sa_hls/RTV.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/fadhilspooky/indiahome/master/assets/images/channels/logo_rcti.png" group-title="LOKAL", RCTI
 https://live.rctiplus.id/rctiplus/rcti_720p.m3u8
@@ -63,19 +68,19 @@ http://stream1.ninmedia.tv/rrinet/udp.stream_360p/playlist.m3u8
 https://livetvhooq.akamaized.net/b1b6d552c80f4ef78bd4c10bfb32268d/eu-central-1/5493668622001/profile_1/chunklist.m3u8?hdnts=st=1572048870~exp=9007200826789861~acl=/b1b6d552c80f4ef78bd4c10bfb32268d/*/profile_1/chunklist.m3u8*~hmac=d953442254a991bd90234bddbdec85c2ebd07648d38983e23e541e31e7993cc9
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_sctv_big1.png" group-title="LOKAL", SCTV
-http://210.210.155.35:80/qwr9ew/s/s103/01.m3u8
+https://liveanevia.mncnow.id/live/eds/SCTV/sa_hls/SCTV.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_transtv_big1.png" group-title="LOKAL", TRANSTV
 http://210.210.155.35/session/0fd20eca-07c5-11ea-9bba-c81f66f89318/qwr9ew/s/s100/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_trans7_big1.png" group-title="LOKAL", TRANS7
-http://id2.indostreamingtv.com/live/trans7/index.m3u8
+https://liveanevia.mncnow.id/live/eds/Trans7/sa_hls/Trans7.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvri_big1.png" group-title="LOKAL", TVRI
-http://202.80.222.179/000001/2/ch14041511560872104862/1000.m3u8?virtualDomain=000001.live_hls.zte.com
+https://liveanevia.mncnow.id/live/eds/TVRI/sa_hls/TVRI.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvone_big1.png" group-title="LOKAL", TVONE
-https://anevia115.mncnow.id/live/eds/TVOne/sa_hls/TVOne-avc1_1000000=7-mp4a_98800_eng=5.m3u8
+https://liveanevia.mncnow.id/live/eds/TVOne/sa_hls/TVOne.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_useephoto_big.png" group-title="LOKAL", Usee Photo
 https://livetvhooq.akamaized.net/c37364587aeb4050bd51a0b8068e976f/eu-central-1/5493668622001/profile_2/chunklist.m3u8?hdnts=st=1569566771~exp=9007200824307762~acl=/c37364587aeb4050bd51a0b8068e976f/*/profile_2/chunklist.m3u8*~hmac=d444d67dbe78b01ffba4e087441366bd8243619ec7724cde63d884707c5a2cf9
@@ -86,10 +91,13 @@ https://livetvhooq.akamaized.net/8eb1108c494240ef94c5c8ae7e572c29/eu-central-1/5
 
 #KNOWLEDGE
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/fadhilspooky/indiahome/master/assets/images/channels/logo_animalplanet.png" group-title="KNOWLEDGE", Animal Planet
-http://203.153.218.28:9981/stream/channelid/1943600623?ticket=694FA36A0D756D8572C705243A10521FAF796351&profile=pass
+https://liveanevia.mncnow.id/live/eds/AnimalPlanet/sa_hls/AnimalPlanet-avc1_1000000=16-mp4a_98800_eng=3.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/fadhilspooky/indiahome/master/assets/images/channels/logo_bbcearth.png" group-title="KNOWLEDGE", BBC Earth
 https://liveanevia.mncnow.id/live/eds/BBCEarth/sa_hls/BBCEarth-avc1_1000000=10-mp4a_98800_eng=5.m3u8
+
+#EXTINF:-1 tvg-logo="KOSONG" group-title="KNOWLEDGE", BeSmart
+https://liveanevia.mncnow.id/live/eds/BeSmart/sa_hls/BeSmart.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_cgtndocumentary_big1.png" group-title="KNOWLEDGE", CGTN
 http://210.210.155.35/qwr9ew/s/s20/index.m3u8
@@ -101,13 +109,13 @@ http://203.153.218.28:9981/stream/channelid/1151931232?ticket=D05F5F5AB713CBADFB
 http://203.153.218.28:9981/stream/channelid/1868154562?ticket=21CAD98B63EE6B1D16AFD5B33F7C68F48FA445CD&profile=pass
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_natgeo_big.png" group-title="KNOWLEDGE", National Geographic
-http://203.153.218.28:9981/stream/channelid/681683355?ticket=B3C34399E8376048D3433529578519E51673EA32&profile=pass
+https://liveanevia.mncnow.id/live/eds/NatGeoChannel/sa_hls/NatGeoChannel-avc1_2499968=10-mp4a_98800_eng=4.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_natgeopeople_big.png" group-title="KNOWLEDGE", National Geo People
-http://203.153.218.28:9981/stream/channelid/1114683377?ticket=39736C153BA658BB8604E39D479282644E09703E&profile=pass
+https://liveanevia.mncnow.id/live/eds/NatGeoPeople/sa_hls/NatGeoPeople-avc1_2499968=7-mp4a_98800_eng=3.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_natgeowild_big.png" group-title="KNOWLEDGE", National Geographic Wild
-http://203.153.218.28:9981/stream/channelid/1497533758?ticket=36B439E64C5884A941F9938AD9373C4B849363BA&profile=pass
+https://liveanevia.mncnow.id/live/eds/NatGeoWild/sa_hls/NatGeoWild-avc1_2499968=10-mp4a_98800_eng=5.m3u8
 
 
 #KIDS
@@ -125,6 +133,9 @@ https://liveanevia.mncnow.id/live/eds/Boomerang/sa_hls/Boomerang-avc1_2499968=10
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_cartoonnetwork_big.png" group-title="KIDS", Cartoon Network
 https://liveanevia.mncnow.id/live/eds/CartoonNetwork/sa_hls/CartoonNetwork-avc1_2499968=10-mp4a_98800_ind=16.m3u8
+
+#EXTINF:-1 tvg-logo="KOSONG" group-title="KIDS", Cbeebies
+https://liveanevia.mncnow.id/live/eds/Cbeebies/sa_hls/Cbeebies.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_davinci_big1.png" group-title="KIDS", Da Vinci
 http://213.174.8.7:11111/index.m3u8
@@ -147,6 +158,9 @@ http://livecdnh3.tvanywhere.ae/hls/duck/06.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_horee_big.png" group-title="KIDS", Horee
 https://dl.dropbox.com/s/b6fas6znw4nylec/Hore.m3u8
 
+#EXTINF:-1 tvg-logo="KOSONG" group-title="KIDS", Kids Channel
+https://liveanevia.mncnow.id/live/eds/KidsChannel/sa_hls/KidsChannel.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/fadhilspooky/indiahome/master/assets/images/channels/logo_miamomi.png" group-title="KIDS", Miamo Mi
 https://d3kw4vhbdpgtqk.cloudfront.net/hls/miaomipcweb/prog_index.m3u8
 
@@ -167,6 +181,9 @@ rtp://@239.1.1.143:8832
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_afc_big.png" group-title="LIFESTYLE", AFN
 http://203.153.218.28:9981/stream/channelid/1092664456?ticket=E20984982529618B739BCAB7412D568D65147A93&profile=pass
 
+#EXTINF:-1 tvg-logo="KOSONG" group-title="LIFESTYLE", Auto & Gadget
+https://liveanevia.mncnow.id/live/eds/AutoGadget/sa_hls/AutoGadget.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_eatgo_big1.png" group-title="LIFESTYLE", Eat & Go
 rtp://@239.1.1.229:9350
 
@@ -185,11 +202,17 @@ http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:foodiee/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/fadhilspooky/indiahome/master/assets/images/channels/logo_foxlife.png" group-title="LIFESTYLE", FOX Life
 https://liveanevia.mncnow.id/live/eds/STARWorld/sa_hls/STARWorld.m3u8
 
+#EXTINF:-1 tvg-logo="KOSONG" group-title="LIFESTYLE", HGTV
+https://liveanevia.mncnow.id/live/eds/HGTV/sa_hls/HGTV.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/fadhilspooky/indiahome/master/assets/images/channels/logo_home&living.png" group-title="LIFESTYLE", Home & Living
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:homelivinghd/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/fadhilspooky/indiahome/master/assets/images/channels/logo_lifestyle&fashion.png" group-title="LIFESTYLE", Lifestyle & Fashion
 https://liveanevia.mncnow.id/live/eds/LifeStyleFashion/sa_hls/LifeStyleFashion.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_fashiontv_big1.png" group-title="LIFESTYLE", Outdoor Channel
+https://dl.dropbox.com/s/b0m53oaf0li7fv8/Outdoor.m3u8?dl=0,
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/fadhilspooky/indiahome/master/assets/images/channels/logo_tlc.png" group-title="LIFESTYLE", TLC
 http://203.153.218.28:9981/stream/channelid/391618553?ticket=08323DCACE84958A87EA829F012E919CA861DF74&profile=pass
@@ -197,9 +220,9 @@ http://203.153.218.28:9981/stream/channelid/391618553?ticket=08323DCACE84958A87E
 
 #MUSIC
 #EXTINF:-1 tvg-logo="KOSONG" group-title="MUSIC", Channel V
-https://www.useetv.com/assets/images/channel/logo_discovery_big.png
+https://liveanevia.mncnow.id/live/eds/ChannelV/sa_hls/ChannelV.m3u8
 
-#EXTINF:-1 tvg-logo="KOSONG" group-title="MUSIC", Clubing TV
+#EXTINF:-1 tvg-logo="KOSONG" group-title="MUSIC", Clubbing TV
 https://livetvhooq.akamaized.net:443/923e04bf28d6488e85831094a2cfc33d/eu-central-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1573597850~exp=9007200828338841~acl=/923e04bf28d6488e85831094a2cfc33d/*/profile_0/chunklist.m3u8*~hmac=3f8b35244cac9f49ce5491e590812bb8770317e3206bb1603f4a8aa41efe6ff2
 
 #EXTINF:-1 tvg-logo="KOSONG" group-title="MUSIC", DANGDUTZ
@@ -211,11 +234,17 @@ http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_mtvlive_big.png" group-title="MUSIC", MTV Live
 https://www.livedoomovie.com/02_MTV_Live_HD_720p/chunklist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fDpcQ0t.png" group-title="MUSIC", Mugos
+http://streaming.mas-mas.it:1935/live/myStream/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_mtvlive_big.png" group-title="MUSIC", Music Channel
+https://liveanevia.mncnow.id/live/eds/MusicChannel/sa_hls/MusicChannel.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_pramborstv_big1.png" group-title="MUSIC", PRAMBORS
 https://cdn-accedo-01.akamaized.net:443/Content/DASH/Live/channel(d38de229-8abc-4072-91d4-2c42935f7e3b)/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_allegro_big1.png" group-title="MUSIC", T MUSIC
-rtp://@239.1.1.163:8952
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8
 
 
 #ENTERTAINMENT
@@ -225,7 +254,7 @@ https://liveanevia.mncnow.id/live/eds/Animax/sa_hls/Animax-avc1_2499968=11-mp4a_
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_aniplus_big1.png" group-title="ENTERTAINMENT", ANIPLUS
 http://rr1.dens.tv/h/h02/index.m3u8
 
-#EXTINF:-1 tvg-logo="KOSONG" group-title="ENTERTAINMENT", Ariang
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BStW7wi.png" group-title="ENTERTAINMENT", Ariang
 https://liveanevia.mncnow.id/live/eds/Arirang/sa_hls/Arirang.m3u8
 
 #EXTINF:-1 tvg-logo="KOSONG" group-title="ENTERTAINMENT", AWESOME
@@ -240,6 +269,9 @@ http://203.153.218.28:9981/stream/channelid/1299824667?ticket=EDA811CE90A26AD414
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_cctv4_big1.png" group-title="ENTERTAINMENT", CCTV 4
 http://45.126.83.51/qwr9ew/s/s19/01.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_citradrama_big.png" group-title="ENTERTAINMENT", Citra Drama
+https://dl.dropbox.com/s/2f1e4vq02tpu2pc/Citra%20drama.m3u8?dl=0
+
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_dunialain_big.png" group-title="ENTERTAINMENT", Dunia Lain
 https://dl.dropbox.com/s/fo0fid5071uwwcn/dunialain.m3u8?dl=0
 
@@ -249,8 +281,14 @@ https://livetvhooq.akamaized.net:443/166d36fe333a41e7846c47c07aa4919c/ap-southea
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_crimeinvestigation_big.png" group-title="ENTERTAINMENT", Crime Investigation
 https://liveanevia.mncnow.id/live/eds/CrimeInvestigation/sa_hls/CrimeInvestigation-avc1_1000000=10-mp4a_98800_eng=3.m3u8
 
+#EXTINF:-1 tvg-logo="KOSONG" group-title="ENTERTAINMENT", FMN
+https://liveanevia.mncnow.id/live/eds/FMN/sa_hls/FMN.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_hiindo_big1.png" group-title="ENTERTAINMENT", Hi Indo!
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:hich/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="KOSONG" group-title="ENTERTAINMENT", Infotainment
+https://liveanevia.mncnow.id/live/eds/MNCInfotainment/sa_hls/MNCInfotainment.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_lifetime_big.png" group-title="ENTERTAINMENT", Lifetime
 https://liveanevia.mncnow.id/live/eds/Lifetime/sa_hls/Lifetime.m3u8
@@ -285,11 +323,20 @@ https://liveanevia.mncnow.id/live/eds/tvN/sa_hls/tvN-avc1_2499968=7-mp4a_98800_e
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvnmoviews_small.png" group-title="ENTERTAINMENT", TVN Movies
 https://liveanevia.mncnow.id/live/eds/tvNMovies/sa_hls/tvNMovies-avc1_2499968=10-mp4a_66000_eng=2.m3u8
 
+#EXTINF:-1 tvg-logo="KOSONG" group-title="ENTERTAINMENT", Vision Prime
+https://liveanevia.mncnow.id/live/eds/VisionPrime/sa_hls/VisionPrime.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_warner_big.png" group-title="ENTERTAINMENT", Warner TV
 https://liveanevia.mncnow.id/live/eds/WarnerTV/sa_hls/WarnerTV-avc1_1000000=16-mp4a_98800_eng=5.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_wakuwaku_big.png" group-title="ENTERTAINMENT", WakuWaku Japan
 https://liveanevia.mncnow.id/live/eds/WakuWakuJapan/sa_hls/WakuWakuJapan-avc1_2499968=11-mp4a_98800_eng=3.m3u8
+
+#EXTINF:-1 tvg-logo="KOSONG" group-title="ENTERTAINMENT", Zee TV
+https://liveanevia.mncnow.id/live/eds/ZeeTV/sa_hls/ZeeTV.m3u8
+
+#EXTINF:-1 tvg-logo="KOSONG" group-title="ENTERTAINMENT", Zee Cinema
+https://liveanevia.mncnow.id/live/eds/ZeeCinema/sa_hls/ZeeCinema.m3u8
 
 
 #TV SERIES
@@ -364,6 +411,18 @@ https://liveanevia.mncnow.id/live/eds/HITS/sa_hls/HITS-avc1_2499968=11-mp4a_9880
 #EXTINF:-1 tvg-logo="KOSONG" group-title="MOVIE", Hits Movies
 https://liveanevia.mncnow.id/live/eds/HitsMovies/sa_hls/HitsMovies-avc1_2499968=12-mp4a_98800_eng=5.m3u8
 
+#EXTINF:-1 tvg-logo="KOSONG" group-title="MOVIE", Movies Channel
+https://liveanevia.mncnow.id/live/eds/MovieChannel/sa_hls/MovieChannel.m3u8
+
+#EXTINF:-1 tvg-logo="KOSONG" group-title="MOVIE", Star Chinese Movies
+https://liveanevia.mncnow.id/live/eds/SCM/sa_hls/SCM.m3u8
+
+#EXTINF:-1 tvg-logo="KOSONG" group-title="MOVIE", Star Chinese Movies Legend
+https://liveanevia.mncnow.id/live/eds/SCMlegend/sa_hls/SCMlegend.m3u
+
+#EXTINF:-1 tvg-logo="KOSONG" group-title="MOVIE", Wowow Movies
+http://192.240.127.34:1935/live/cs27.stream/playlist.m3u8?wowzasessionid=1300220279
+
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_zbioskop_big1.png" group-title="MOVIE", Zee Bioskop
 http://210.210.155.35/qwr9ew/s/s32/01.m3u8
 
@@ -420,13 +479,17 @@ https://anevia115.mncnow.id/live/eds/FoxSports3/sa_hls/FoxSports3-avc1_2499968=1
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_golf_big1.png" group-title="SPORT", GOLF Channel
 https://www.livedoomovie.com/02_golfhd_720p/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="KOSONG" group-title="SPORT", SPORT ILUSTRATED
-https://livetvhooq.akamaized.net:443/aead26cfa8f6495c98e63a02d4e2f20e/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1573600461~exp=9007200828341452~acl=/aead26cfa8f6495c98e63a02d4e2f20e/*/profile_0/chunklist.m3u8*~hmac=392ded93cf19d860c6adb4e844992daec4e7c50e7525a525551766b59d3221f1
-
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_nba_big1.png" group-title="SPORT", NBA TV
 https://www.livedoomovie.com/02_nbahd_720p/chunklist.m3u8
 
+#EXTINF:-1 tvg-logo="KOSONG" group-title="SPORT", Sony ESPN
+https://streamer-1.toffeelive.com/live/sony_espn_576/index.m3u8
 
+#EXTINF:-1 tvg-logo="KOSONG" group-title="SPORT", SPORT ILUSTRATED
+https://livetvhooq.akamaized.net:443/aead26cfa8f6495c98e63a02d4e2f20e/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1573600461~exp=9007200828341452~acl=/aead26cfa8f6495c98e63a02d4e2f20e/*/profile_0/chunklist.m3u8*~hmac=392ded93cf19d860c6adb4e844992daec4e7c50e7525a525551766b59d3221f1
+
+#EXTINF:-1 tvg-logo="KOSONG" group-title="SPORT", TVRI Sport
+http://210.210.155.35/session/69e800f6-97c0-11e9-888f-b82a72d63267/qwr9ew/s/s107/02.m3u8
 
 
 #NEWS
@@ -437,10 +500,10 @@ https://liveanevia.mncnow.id/live/eds/AustraliaPlus/sa_hls/AustraliaPlus.m3u8
 http://45.126.83.51/qwr9ew/s/s17/index.m3u8
 
 #EXTINF:-1 tvg-logo="KOSONG" group-title="NEWS", BBC World News
-http://203.153.218.28:9981/stream/channelid/861591723?ticket=F0599E847F90B5FE81ADFE5AD5296885A461DA19&profile=pass
+https://liveanevia.mncnow.id/live/eds/BBCWorldNews/sa_hls/BBCWorldNews.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_beritasatu_big1.png" group-title="NEWS", BERITA SATU
-http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/playlist.m3u8
+https://liveanevia.mncnow.id/live/eds/BeritaSatu/sa_hls/BeritaSatu.m3u8
 
 #EXTINF:-1 tvg-logo="KOSONG" group-title="NEWS", BERITA SATU WORLD
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsworld/playlist.m3u8
@@ -460,14 +523,17 @@ http://203.153.218.28:9981/stream/channelid/1328589592?ticket=3A77BAE803C77F2618
 #EXTINF:-1 tvg-logo="KOSONG" group-title="NEWS", CNBC Indonesia
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="KOSONG" group-title="NEWS", CNBC International
-http://203.153.218.28:9981/stream/channelid/1744735983?ticket=07E4904EDFA549D56E57107CB6140923FE593775&profile=pass
+#EXTINF:-1 tvg-logo="KOSONG" group-title="NEWS", CNBC Asia
+https://liveanevia.mncnow.id/live/eds/CNBC/sa_hls/CNBC.m3u8
+
+#EXTINF:-1 tvg-logo="KOSONG" group-title="NEWS", CSBS
+http://161.0.157.50/PLTV/88888888/224/3221227041/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_dwtv_big.png" group-title="NEWS", DW TV
 https://liveanevia.mncnow.id/live/eds/DW/sa_hls/DW.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_euronews_big1.png" group-title="NEWS", EURO News
-http://210.210.155.35/session/dff6d9c0-7b79-11e8-810e-c81f66f89318/qwr9ew/s/s15/01.m3u8
+https://liveanevia.mncnow.id/live/eds/EuroNews/sa_hls/EuroNews.m3u8
 
 #EXTINF:-1 tvg-logo="KOSONG" group-title="NEWS", FOX News
 https://liveanevia.mncnow.id/live/eds/FoxNews/sa_hls/FoxNews.m3u8
