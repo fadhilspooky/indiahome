@@ -1,7 +1,7 @@
 # FREE IPTV Premium Playlist Indonesia Channels
 # TIDAK UNTUK DI PERJUAL BELIKAN!
 # Get updates : github.com/fadhilspooky/indiahome
-# 1 mbps internet speed requried
+# 1,5 mbps internet speed the best for watching
 
 #LOKAL
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_antara_big1.png" group-title="LOKAL", Antara
@@ -158,7 +158,7 @@ http://livecdnh3.tvanywhere.ae/hls/duck/06.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_horee_big.png" group-title="KIDS", Horee
 https://dl.dropbox.com/s/b6fas6znw4nylec/Hore.m3u8
 
-#EXTINF:-1 tvg-logo="KOSONG" group-title="KIDS", Kids Channel
+#EXTINF:-1 tvg-logo="KOSONG" group-title="KIDS", Kids TV
 https://liveanevia.mncnow.id/live/eds/KidsChannel/sa_hls/KidsChannel.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/fadhilspooky/indiahome/master/assets/images/channels/logo_miamomi.png" group-title="KIDS", Miamo Mi
@@ -211,7 +211,7 @@ http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:homelivinghd/playlist.m
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/fadhilspooky/indiahome/master/assets/images/channels/logo_lifestyle&fashion.png" group-title="LIFESTYLE", Lifestyle & Fashion
 https://liveanevia.mncnow.id/live/eds/LifeStyleFashion/sa_hls/LifeStyleFashion.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_fashiontv_big1.png" group-title="LIFESTYLE", Outdoor Channel
+#EXTINF:-1 tvg-logo="KOSONG" group-title="LIFESTYLE", Outdoor Channel
 https://dl.dropbox.com/s/b0m53oaf0li7fv8/Outdoor.m3u8?dl=0,
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/fadhilspooky/indiahome/master/assets/images/channels/logo_tlc.png" group-title="LIFESTYLE", TLC
@@ -237,7 +237,7 @@ https://www.livedoomovie.com/02_MTV_Live_HD_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fDpcQ0t.png" group-title="MUSIC", Mugos
 http://streaming.mas-mas.it:1935/live/myStream/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_mtvlive_big.png" group-title="MUSIC", Music Channel
+#EXTINF:-1 tvg-logo="KOSONG" group-title="MUSIC", Music TV
 https://liveanevia.mncnow.id/live/eds/MusicChannel/sa_hls/MusicChannel.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_pramborstv_big1.png" group-title="MUSIC", PRAMBORS
@@ -308,7 +308,7 @@ http://210.210.155.35/uq2663/h/h08/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_nhkworld_big.png" group-title="ENTERTAINMENT", NHK World Japan
 http://210.210.155.35/uq2663/h/h23/index1.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_nhkworld_big.png" group-title="ENTERTAINMENT", NHK World Premium
+#EXTINF:-1 tvg-logo="KOSONG" group-title="ENTERTAINMENT", NHK World Premium
 https://liveanevia.mncnow.id/live/eds/NHKWorldPremium/sa_hls/NHKWorldPremium.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_sgem_big1.png" group-title="ENTERTAINMENT", S-GEM
