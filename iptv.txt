@@ -222,13 +222,13 @@ http://203.153.218.28:9981/stream/channelid/391618553?ticket=08323DCACE84958A87E
 #EXTINF:-1 tvg-logo="KOSONG" group-title="MUSIC", Channel V
 https://liveanevia.mncnow.id/live/eds/ChannelV/sa_hls/ChannelV.m3u8
 
-#EXTINF:-1 tvg-logo="KOSONG" group-title="MUSIC", Clubbing TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/fadhilspooky/indiahome/master/assets/images/channels/logo_clubbingtv.png" group-title="MUSIC", Clubbing TV
 https://livetvhooq.akamaized.net:443/923e04bf28d6488e85831094a2cfc33d/eu-central-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1573597850~exp=9007200828338841~acl=/923e04bf28d6488e85831094a2cfc33d/*/profile_0/chunklist.m3u8*~hmac=3f8b35244cac9f49ce5491e590812bb8770317e3206bb1603f4a8aa41efe6ff2
 
-#EXTINF:-1 tvg-logo="KOSONG" group-title="MUSIC", DANGDUTZ
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/fadhilspooky/indiahome/master/assets/images/channels/logo_dangdutz.png" group-title="MUSIC", DANGDUTZ
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:dangdutch/chunklist_b2288000.m3u8
 
-#EXTINF:-1 tvg-logo="KOSONG" group-title="MUSIC", MTV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/fadhilspooky/indiahome/master/assets/images/channels/logo_mtv.png" group-title="MUSIC", MTV
 http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_mtvlive_big.png" group-title="MUSIC", MTV Live
