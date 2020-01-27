@@ -176,7 +176,7 @@ http://213.252.252.17/live/eds/Nicktoons/HLS_encr/Nicktoons.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_spacetoonplus_big1.png" group-title="KIDS", Spacetoon Plus
 rtp://@239.1.1.143:8832
 
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_nickjr_big.png" group-title="KIDS", Tooonmax
+#EXTINF:-1 tvg-logo="KOSONG" group-title="KIDS", Tooonmax
 http://210.210.155.35/qwr9ew/s/s50/index2.m3u8
 
 #LIFESTYLE
