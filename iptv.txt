@@ -343,7 +343,7 @@ https://liveanevia.mncnow.id/live/eds/ZeeCinema/sa_hls/ZeeCinema.m3u8
 
 #TV SERIES
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_axn_big.png" group-title="TV SERIES", AXN
-http://203.153.218.28:9981/stream/channelid/882386103?ticket=DF543FFEC6C497F485D61A1907E83292A2DB1741&profile=pass
+http://210.210.155.35:80/session/37ee409e-73b5-11e9-b657-a0899505893d/uq2663/h/h141/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_chinesedrama_big.png" group-title="TV SERIES", Chinese Drama
 rtp://@239.1.1.64:8358
@@ -375,7 +375,7 @@ rtp://@239.1.1.226:9332
 https://liveanevia.mncnow.id/live/eds/CelestialClassic/sa_hls/CelestialClassic-avc1_1000000=7-mp4a_98800_eng=5.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_celestialmovie_big.png" group-title="MOVIE", Celestial Movie
-http://210.210.155.35/qwr9ew/s/s33/index.m3u8
+http://210.210.155.35:80/session/18437ccc-73b6-11e9-9278-9c128a7729b7/qwr9ew/s/s33/01.m3u8
 
 #EXTINF:-1 tvg-logo="KOSONG" group-title="MOVIE", CINEMAX
 https://liveanevia.mncnow.id/live/eds/CinemaxHD/sa_hls/CinemaxHD.m3u8
@@ -455,10 +455,10 @@ https://www.livedoomovie.com/02_epl1_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_bein2_big1.png" group-title="SPORT", BeIN Sport 2
 https://www.livedoomovie.com/02_epl2_720p/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_bein2_big1.png" group-title="SPORT", BT Sport 1
+#EXTINF:-1 tvg-logo="KOSONG" group-title="SPORT", BT Sport 1
 http://95.170.215.120/hls/m3u8/BT-Sport-1HD.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_bein2_big1.png" group-title="SPORT", BT Sport 1
+#EXTINF:-1 tvg-logo="KOSONG" group-title="SPORT", BT Sport 1
 http://95.170.215.120/hls/m3u8/BT-Sport-2HD.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_champ1_big.png" group-title="SPORT", Champions TV 1
