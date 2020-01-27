@@ -5,7 +5,7 @@
 
 #LOKAL
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_antara_big1.png" group-title="LOKAL", Antara
-https://cdnjt23.useetv.com/joss/14/antara/playlist.m3u8?enc=DYNZXTbbz4BzGLNr1XnMOw&exp=1579779564&encp=hPviwIrgYDvxHFnTH_Cblg&expp=1579788264
+https://cdnjt23.useetv.com/joss/14/antara/playlist.m3u8?https://cdnjt23.useetv.com/joss/14/antara/playlist.m3u8?enc=fDS34NB4Upd_8l8YOqRTNA&exp=1580154843&encp=ZqlQTVdNDFLbb1RLbWfZgQ&expp=1580163543
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_antv_big1.png" group-title="LOKAL", ANTV
 https://liveanevia.mncnow.id/live/eds/ANTV/sa_hls/ANTV.m3u8
@@ -35,7 +35,7 @@ https://liveanevia.mncnow.id/live/eds/JakTV/sa_hls/JakTV.m3u8
 https://dl.dropbox.com/s/c5pe05bpznbafh3/Jawapos2.m3u8?dl=0
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_jitv_big.png" group-title="LOKAL", JITV
-https://cdnjt23.useetv.com/joss/14/jitv/playlist.m3u8?enc=JeYnkd17Cp2KXGKfPszGSQ&exp=1579779523&encp=PrYYsOiQ9pUdKsHJ8DifTA&expp=1579788223
+https://cdnjt23.useetv.com/joss/14/jitv/playlist.m3u8?enc=fJfZZ3UTfRxpfj0FVMVApw&exp=1580154710&encp=PEwby09zXuUY_4nzOLHDAw&expp=1580163410
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_jtv_big1.png" group-title="LOKAL", JTV
 https://liveanevia.mncnow.id/live/eds/JTV/sa_hls/JTV.m3u8
