@@ -103,7 +103,7 @@ https://liveanevia.mncnow.id/live/eds/BeSmart/sa_hls/BeSmart.m3u8
 http://210.210.155.35/qwr9ew/s/s20/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_discovery_big.png" group-title="KNOWLEDGE", Discovery Channel
-http://203.153.218.28:9981/stream/channelid/1151931232?ticket=D05F5F5AB713CBADFBFABB642E4F37D5004BB751&profile=pass
+https://liveanevia.mncnow.id/live/eds/Discovery/sa_hls/Discovery.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_history_big.png" group-title="KNOWLEDGE", History Channel
 https://liveanevia.mncnow.id/live/eds/History/sa_hls/History-avc1_1000000=9-mp4a_98800_eng=3.m3u8
@@ -162,7 +162,7 @@ https://dl.dropbox.com/s/b6fas6znw4nylec/Hore.m3u8
 https://liveanevia.mncnow.id/live/eds/KidsChannel/sa_hls/KidsChannel.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/fadhilspooky/indiahome/master/assets/images/channels/logo_miamomi.png" group-title="KIDS", Miamo Mi
-https://d3kw4vhbdpgtqk.cloudfront.net/hls/miaomipcweb/prog_index.m3u8
+https://liveanevia.mncnow.id/live/eds/MiaoMi/sa_hls/MiaoMi.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_nickelodeon_big.png" group-title="KIDS", Nickelodeon
 https://liveanevia.mncnow.id/live/eds/Nickelodeon/sa_hls/Nickelodeon-avc1_1000000=8-mp4a_98800_eng=4.m3u8
@@ -181,7 +181,7 @@ http://210.210.155.35/qwr9ew/s/s50/index2.m3u8
 
 #LIFESTYLE
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_afc_big.png" group-title="LIFESTYLE", AFN
-http://203.153.218.28:9981/stream/channelid/1092664456?ticket=E20984982529618B739BCAB7412D568D65147A93&profile=pass
+https://liveanevia.mncnow.id/live/eds/AFC/sa_hls/AFC-avc1_1000000=6-mp4a_98800_eng=3.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_eatgo_big1.png" group-title="LIFESTYLE", Eat & Go
 rtp://@239.1.1.229:9350
@@ -231,7 +231,7 @@ http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:dangdutch/chunklist_b22
 http://edge.linknetott.swiftserve.com/channelgroup2/cg220production/ch364/05.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/fadhilspooky/indiahome/master/assets/images/channels/logo_mtv.png" group-title="MUSIC", MTV
-http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
+http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8?fluxustv.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_mtvlive_big.png" group-title="MUSIC", MTV Live
 https://www.livedoomovie.com/02_MTV_Live_HD_720p/chunklist.m3u8
@@ -378,7 +378,7 @@ https://liveanevia.mncnow.id/live/eds/CelestialClassic/sa_hls/CelestialClassic-a
 http://210.210.155.35/qwr9ew/s/s33/index.m3u8
 
 #EXTINF:-1 tvg-logo="KOSONG" group-title="MOVIE", CINEMAX
-http://203.153.218.28:9981/stream/channelid/255605374?ticket=8419D5E6A24EE915F246B23011407540BE9B0E50&profile=pass
+https://liveanevia.mncnow.id/live/eds/CinemaxHD/sa_hls/CinemaxHD.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_cinemaworld_big.png" group-title="MOVIE", Cinema World
 https://liveanevia.mncnow.id/live/eds/CinemaWorld/sa_hls/CinemaWorld-avc1_2499968=13-mp4a_98800_eng=3.m3u8
@@ -544,7 +544,7 @@ https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="KOSONG" group-title="NEWS", CNBC Asia
 https://liveanevia.mncnow.id/live/eds/CNBC/sa_hls/CNBC.m3u8
 
-#EXTINF:-1 tvg-logo="KOSONG" group-title="NEWS", CSBS
+#EXTINF:-1 tvg-logo="KOSONG" group-title="NEWS", CBS
 http://161.0.157.50/PLTV/88888888/224/3221227041/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_dwtv_big.png" group-title="NEWS", DW TV
