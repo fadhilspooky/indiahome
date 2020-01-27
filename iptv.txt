@@ -214,7 +214,7 @@ https://liveanevia.mncnow.id/live/eds/LifeStyleFashion/sa_hls/LifeStyleFashion.m
 https://dl.dropbox.com/s/b0m53oaf0li7fv8/Outdoor.m3u8?dl=0,
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/fadhilspooky/indiahome/master/assets/images/channels/logo_tlc.png" group-title="LIFESTYLE", TLC
-http://203.153.218.28:9981/stream/channelid/391618553?ticket=08323DCACE84958A87EA829F012E919CA861DF74&profile=pass
+http://www.stgiptv.tech:25461/live/Stgiptv8987/Stgiptv8987/275.m3u8
 
 
 #MUSIC
