@@ -144,7 +144,7 @@ http://213.174.8.7:11111/index.m3u8
 https://liveanevia.mncnow.id/live/eds/DisneyChannel/sa_hls/DisneyChannel-avc1_2499968=7-mp4a_98800_ind=9.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/fadhilspooky/indiahome/master/assets/images/channels/logo_disneyjr.png" group-title="KIDS", Disney Junior
-http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8
+https://delivery.macan.live/stream/disneyjunior/index.m3u8?token=DHnXAlx6
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/fadhilspooky/indiahome/master/assets/images/channels/logo_disneyxd.png" group-title="KIDS", Disney XD
 https://liveanevia.mncnow.id/live/eds/DisneyXD/sa_hls/DisneyXD.m3u8
@@ -202,7 +202,8 @@ http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:foodiee/playlist.m3u8
 https://liveanevia.mncnow.id/live/eds/STARWorld/sa_hls/STARWorld.m3u8
 
 #EXTINF:-1 tvg-logo="KOSONG" group-title="LIFESTYLE", HGTV
-https://liveanevia.mncnow.id/live/eds/HGTV/sa_hls/HGTV.m3u8
+https://delivery.macan.live/stream/hgtv/index.m3u8?token=DHnXAlx6
+#https://liveanevia.mncnow.id/live/eds/HGTV/sa_hls/HGTV.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/fadhilspooky/indiahome/master/assets/images/channels/logo_home&living.png" group-title="LIFESTYLE", Home & Living
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:homelivinghd/playlist.m3u8
@@ -444,19 +445,22 @@ https://liveanevia.mncnow.id/live/eds/MNCSports/sa_hls/MNCSports.m3u8
 https://liveanevia.mncnow.id/live/eds/SoccerChannel/sa_hls/SoccerChannel.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_useesport_big.png" group-title="SPORT", Usee Sport
-https://dl.dropbox.com/s/i2af1p436yzvwo2/foxs1.m3u8?dl=0
+https://delivery.macan.live/stream/macan_sport_3/index.m3u8?token=DHnXAlx6
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_useesports2_big.png" group-title="SPORT", Usee Sports 2
-http://cybervision.us.to:8989/live/iptvku/iptvku/273.ts
+https://delivery.macan.live/stream/macan_sport_4/index.m3u8?token=DHnXAlx6
 
-#EXTINF:-1 tvg-logo="KOSONG" group-title="SPORT", Astro Super Sport 1
-http://62.210.157.198:80/live.ts?channelId=6675&deviceMac=00:1A:79:3B:44:E5&uid=1726
+#EXTINF:-1 tvg-logo="KOSONG" group-title="SPORT", Astro Super Sport
+https://delivery.macan.live/stream/macan_sport_9/index.m3u8?token=DHnXAlx6
 
 #EXTINF:-1 tvg-logo="KOSONG" group-title="SPORT", Astro Super Sport 2
-http://62.210.157.198:80/live.ts?channelId=6676&deviceMac=00:1A:79:3B:44:E5&uid=1726
+https://delivery.macan.live/stream/macan_sport_10/index.m3u8?token=DHnXAlx6
 
 #EXTINF:-1 tvg-logo="KOSONG" group-title="SPORT", Astro Super Sport 3
-http://62.210.157.198:80/live.ts?channelId=6673&deviceMac=00:1A:79:3B:44:E5&uid=1726
+https://delivery.macan.live/stream/macan_sport_11/index.m3u8?token=DHnXAlx6
+
+#EXTINF:-1 tvg-logo="KOSONG" group-title="SPORT", Astro Super Sport 4
+https://delivery.macan.live/stream/macan_sport_12/index.m3u8?token=DHnXAlx6
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_bein1_big1.png" group-title="SPORT", BeIN Sport 1
 https://www.livedoomovie.com/02_epl1_720p/chunklist.m3u8
@@ -471,10 +475,10 @@ http://95.170.215.120/hls/m3u8/BT-Sport-1HD.m3u8
 http://95.170.215.120/hls/m3u8/BT-Sport-2HD.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_champ1_big.png" group-title="SPORT", Champions TV 1
-https://dl.dropbox.com/s/vcda69kz7mnio6e/Champ1.m3u8?dl=0
+https://delivery.macan.live/stream/macan_sport_5/index.m3u8?token=DHnXAlx6
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_champ2_big.png" group-title="SPORT", Champions TV 2
-https://dl.dropbox.com/s/znpvtme2xmrlij2/Champ2.m3u8?dl=0
+https://delivery.macan.live/stream/macan_sport_6/index.m3u8?token=DHnXAlx6
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_egg_big1.png" group-title="SPORT", EGG Network
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch319)/02.m3u8
