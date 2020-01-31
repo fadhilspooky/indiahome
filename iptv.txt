@@ -278,6 +278,9 @@ http://45.126.83.51/qwr9ew/s/s19/01.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_citradrama_big.png" group-title="ENTERTAINMENT", Citra Drama
 https://dl.dropbox.com/s/2f1e4vq02tpu2pc/Citra%20drama.m3u8?dl=0
 
+#EXTINF:-1 tvg-logo="KOSONG" group-title="ENTERTAINMENT", DIVA
+https://delivery.macan.live/stream/diva/index.m3u8?token=DHnXAlx6
+
 #EXTINF:-1 tvg-logo="Kosong" group-title="ENTERTAINMENT", Fail Army
 https://livetvhooq.akamaized.net:443/166d36fe333a41e7846c47c07aa4919c/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1573599949~exp=9007200828340940~acl=/166d36fe333a41e7846c47c07aa4919c/*/profile_0/chunklist.m3u8*~hmac=f6dc30f96b4ccc9366031d95a30921884645efb4bedd2caf28eadee41e95bfd8
 
@@ -463,10 +466,10 @@ https://delivery.macan.live/stream/macan_sport_11/index.m3u8?token=DHnXAlx6
 https://delivery.macan.live/stream/macan_sport_12/index.m3u8?token=DHnXAlx6
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_bein1_big1.png" group-title="SPORT", BeIN Sport 1
-https://www.livedoomovie.com/02_epl1_720p/chunklist.m3u8
+https://delivery.macan.live/stream/macan_sport_1/index.m3u8?token=DHnXAlx6
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_bein2_big1.png" group-title="SPORT", BeIN Sport 2
-https://www.livedoomovie.com/02_epl2_720p/chunklist.m3u8
+https://delivery.macan.live/stream/macan_sport_2/index.m3u8?token=DHnXAlx6
 
 #EXTINF:-1 tvg-logo="KOSONG" group-title="SPORT", BT Sport 1
 http://95.170.215.120/hls/m3u8/BT-Sport-1HD.m3u8
@@ -497,6 +500,30 @@ https://anevia115.mncnow.id/live/eds/FoxSports3/sa_hls/FoxSports3-avc1_2499968=1
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_golf_big1.png" group-title="SPORT", GOLF Channel
 https://www.livedoomovie.com/02_golfhd_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="KOSONG" group-title="SPORT", Macan sport 7
+https://delivery.macan.live/stream/macan_sport_7/index.m3u8?token=DHnXAlx6
+
+#EXTINF:-1 tvg-logo="KOSONG" group-title="SPORT", Macan sport 8
+https://delivery.macan.live/stream/macan_sport_8/index.m3u8?token=DHnXAlx6
+
+#EXTINF:-1 tvg-logo="KOSONG" group-title="SPORT", Macan sport 13
+https://delivery.macan.live/stream/macan_sport_13/index.m3u8?token=DHnXAlx6
+
+#EXTINF:-1 tvg-logo="KOSONG" group-title="SPORT", Macan sport 14
+https://delivery.macan.live/stream/macan_sport_14/index.m3u8?token=DHnXAlx6
+
+#EXTINF:-1 tvg-logo="KOSONG" group-title="SPORT", Macan sport 15
+https://delivery.macan.live/stream/macan_sport_15/index.m3u8?token=DHnXAlx6
+
+#EXTINF:-1 tvg-logo="KOSONG" group-title="SPORT", Macan sport 16
+https://delivery.macan.live/stream/macan_sport_16/index.m3u8?token=DHnXAlx6
+
+#EXTINF:-1 tvg-logo="KOSONG" group-title="SPORT", Macan sport 17
+https://delivery.macan.live/stream/macan_sport_17/index.m3u8?token=DHnXAlx6
+
+#EXTINF:-1 tvg-logo="KOSONG" group-title="SPORT", Macan sport 18
+https://delivery.macan.live/stream/macan_sport_18/index.m3u8?token=DHnXAlx6
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_nba_big1.png" group-title="SPORT", NBA TV
 https://www.livedoomovie.com/02_nbahd_720p/chunklist.m3u8
