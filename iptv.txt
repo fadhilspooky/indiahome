@@ -347,7 +347,8 @@ https://liveanevia.mncnow.id/live/eds/ZeeCinema/sa_hls/ZeeCinema.m3u8
 
 #TV SERIES
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_axn_big.png" group-title="TV SERIES", AXN
-https://delivery.macan.live/stream/id_axn/index.m3u8?token=DHnXAlx6
+http://203.153.218.28:9981/stream/channelid/882386103?ticket=79046258DC0E930E01197AF56D3D1298958EEE07&profile=pass
+#https://delivery.macan.live/stream/id_axn/index.m3u8?token=DHnXAlx6
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_chinesedrama_big.png" group-title="TV SERIES", Chinese Drama
 rtp://@239.1.1.64:8358
