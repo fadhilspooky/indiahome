@@ -570,7 +570,7 @@ http://203.153.218.28:9981/stream/channelid/1328589592?ticket=3A77BAE803C77F2618
 #EXTINF:-1 tvg-logo="KOSONG" group-title="NEWS", CNBC Indonesia
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="KOSONG" group-title="NEWS", CNBC Asia
+#EXTINF:-1 tvg-logo="KOSONG" group-title="NEWS", CNBC International
 https://liveanevia.mncnow.id/live/eds/CNBC/sa_hls/CNBC.m3u8
 
 #EXTINF:-1 tvg-logo="KOSONG" group-title="NEWS", CBS
