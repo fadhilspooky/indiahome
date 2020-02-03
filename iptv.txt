@@ -115,6 +115,9 @@ https://liveanevia.mncnow.id/live/eds/NatGeoPeople/sa_hls/NatGeoPeople-avc1_2499
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_natgeowild_big.png" group-title="KNOWLEDGE", National Geographic Wild
 https://liveanevia.mncnow.id/live/eds/NatGeoWild/sa_hls/NatGeoWild-avc1_2499968=10-mp4a_98800_eng=5.m3u8
 
+#EXTINF:-1 tvg-logo="KOSONG" group-title="KNOWLEDGE", Smithsonian Channel
+https://siomay.macan.live/stream/smithsonian/playlist.m3u8?
+
 
 #KIDS
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/fadhilspooky/indiahome/master/assets/images/channels/logo_3abnkids.png" group-title="KIDS", 3ABN Kids
@@ -168,6 +171,9 @@ https://liveanevia.mncnow.id/live/eds/NickJr/sa_hls/NickJr-avc1_1000000=8-mp4a_9
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/fadhilspooky/indiahome/master/assets/images/channels/logo_nicktoons.png" group-title="KIDS", Nicktoons
 http://213.252.252.17/live/eds/Nicktoons/HLS_encr/Nicktoons.m3u8
+
+#EXTINF:-1 tvg-logo="KOSONG" group-title="KIDS", ZooMoo
+https://siomay.macan.live/stream/zoomoo/playlist.m3u8?
 
 
 #LIFESTYLE
@@ -465,11 +471,13 @@ https://siomay.macan.live/stream/assp4/playlist.m3u8?
 #https://delivery.macan.live/stream/macan_sport_12/index.m3u8?token=DHnXAlx6
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_bein1_big1.png" group-title="SPORT", BeIN Sport 1
-https://www.livedoomovie.com/02_epl1_720p/chunklist.m3u8
+https://siomay.macan.live/stream/bein1/playlist.m3u8?
+#https://www.livedoomovie.com/02_epl1_720p/chunklist.m3u8
 #https://delivery.macan.live/stream/macan_sport_1/index.m3u8?token=DHnXAlx6
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_bein2_big1.png" group-title="SPORT", BeIN Sport 2
-https://www.livedoomovie.com/02_epl2_720p/chunklist.m3u8
+https://siomay.macan.live/stream/bein2/playlist.m3u8?
+#https://www.livedoomovie.com/02_epl2_720p/chunklist.m3u8
 #https://delivery.macan.live/stream/macan_sport_2/index.m3u8?token=DHnXAlx6
 
 #EXTINF:-1 tvg-logo="KOSONG" group-title="SPORT", BT Sport 1
