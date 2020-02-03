@@ -1,11 +1,14 @@
 # FREE IPTV Premium Playlist Indonesia Channels
+
 # TIDAK UNTUK DI PERJUAL BELIKAN!
+
 # Kami memilih server-server yang stabil di internet low-mid, tunggu sampai kami menemukan server yang stabil untuk channel-channel yang offline
 # 1,5 mbps download speed the best for watching
+# Get updates : github.com/fadhilspooky/indiahome
+
 # JIKA KAMU BELI LAYANAN TELEVISI UNTUK KAMU REKAM LALU KAMU BAGIAN UNTUK KELOMPOK KECIL DAN ITU GRATIS ITS OKE, 
 # JIKA KAMU BELI UNTUK DIREKAM LALU KAMU JUAL BELIKAN LAGI FUCK YOU!!!!, WAIT TILL POLICE CATCH YOU BITCH!!!
 # Get donation NIGGA, dikasih sukur gak dikasih ya sudah, gara-gara beberapa oknum yang memperjual belikanan IPTV ilegal, beberapa software IPTV memberi limit agar aplikasi mereka tidak menjadi layanan jual beli IPTV ilegal
-# Get updates : github.com/fadhilspooky/indiahome
 
 #LOKAL
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_useephoto_big.png" group-title="LOKAL", Usee Photo
@@ -99,6 +102,9 @@ https://liveanevia.mncnow.id/live/eds/BeSmart/sa_hls/BeSmart.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_cgtndocumentary_big1.png" group-title="KNOWLEDGE", CGTN
 http://210.210.155.35/qwr9ew/s/s20/index.m3u8
+
+#EXTINF:-1 tvg-logo="KOSONG" group-title="KNOWLEDGE", Discovery Asia
+https://delivery.macan.live/stream/id_discoveryasia/index.m3u8?token=ZCjg784G
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_discovery_big.png" group-title="KNOWLEDGE", Discovery Channel
 https://liveanevia.mncnow.id/live/eds/Discovery/sa_hls/Discovery.m3u8
@@ -309,10 +315,12 @@ http://210.210.155.35/uq2663/h/h23/index1.m3u8
 https://liveanevia.mncnow.id/live/eds/NHKWorldPremium/sa_hls/NHKWorldPremium.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_sgem_big1.png" group-title="ENTERTAINMENT", S-GEM
-http://rr.dens.tv/h/h19/index2.m3u8
+https://delivery.macan.live/stream/id_gem/index.m3u8?token=ZCjg784G
+#http://rr.dens.tv/h/h19/index2.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_sone_big1.png" group-title="ENTERTAINMENT", S-ONE
-http://210.210.155.35/session/c30d8c14-f1bc-11e8-89c0-aa35b2893d02/uq2663/h/h143/01.m3u8
+https://delivery.macan.live/stream/sonyone/index.m3u8?token=ZCjg784G
+#http://210.210.155.35/session/c30d8c14-f1bc-11e8-89c0-aa35b2893d02/uq2663/h/h143/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvn_big.png" group-title="ENTERTAINMENT", TVN
 https://liveanevia.mncnow.id/live/eds/tvN/sa_hls/tvN-avc1_2499968=7-mp4a_98800_eng=5.m3u8
@@ -350,9 +358,10 @@ https://delivery.macan.live/stream/id_fox/index.m3u8?token=ZCjg784G
 https://liveanevia.mncnow.id/live/eds/FoxCrime/sa_hls/FoxCrime-avc1_2499968=10-mp4a_98800_eng=3.m3u8
 
 #EXTINF:-1 tvg-logo="KOSONG" group-title="TV SERIES", FX
-https://delivery.macan.live/stream/id_fx/index.m3u8?token=ZCjg784G
-#https://siomay.macan.live/stream/fx/playlist.m3u8?
 #https://liveanevia.mncnow.id/live/eds/FX/sa_hls/FX-avc1_2499968=10-mp4a_98800_eng=3.m3u8
+#https://delivery.macan.live/stream/id_fx/index.m3u8?token=ZCjg784G
+#https://siomay.macan.live/stream/fx/playlist.m3u8?
+
 
 #EXTINF:-1 tvg-logo="KOSONG" group-title="TV SERIES", J'go
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:jgoch/chunklist_b2288000.m3u8?fluxustv.m3u8
@@ -591,7 +600,8 @@ https://liveanevia.mncnow.id/live/eds/ChannelNewsAsia/sa_hls/ChannelNewsAsia.m3u
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_cnninternational_big.png" group-title="NEWS", CNN International
-http://203.153.218.28:9981/stream/channelid/1328589592?ticket=3A77BAE803C77F261879F637E4B795AB373D238F&profile=pass
+https://delivery.macan.live/stream/cnninternational/index.m3u8?token=ZCjg784G
+#http://203.153.218.28:9981/stream/channelid/1328589592?ticket=3A77BAE803C77F261879F637E4B795AB373D238F&profile=pass
 
 #EXTINF:-1 tvg-logo="KOSONG" group-title="NEWS", CNBC Indonesia
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
