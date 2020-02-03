@@ -458,12 +458,11 @@ https://delivery.macan.live/stream/macan_sport_3/index.m3u8?token=ZCjg784G
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_useesports2_big.png" group-title="SPORT", Usee Sports 2
 https://delivery.macan.live/stream/macan_sport_4/index.m3u8?token=ZCjg784G
 
-#EXTINF:-1 tvg-logo="KOSONG" group-title="SPORT", Astro Cricket
-https://delivery.macan.live/stream/macan_sport_14/index.m3u8?token=ZCjg784G
-
 #EXTINF:-1 tvg-logo="KOSONG" group-title="SPORT", Astro Arena
 https://delivery.macan.live/stream/macan_sport_9/index.m3u8?token=ZCjg784G
-#https://siomay.macan.live/stream/assp1/playlist.m3u8?
+
+#EXTINF:-1 tvg-logo="KOSONG" group-title="SPORT", Astro Cricket
+https://delivery.macan.live/stream/macan_sport_14/index.m3u8?token=ZCjg784G
 
 #EXTINF:-1 tvg-logo="KOSONG" group-title="SPORT", Astro Super  Sports Live
 https://delivery.macan.live/stream/macan_sport_17/index.m3u8?token=ZCjg784G
