@@ -475,12 +475,14 @@ https://delivery.macan.live/stream/macan_sport_10/index.m3u8?token=ZCjg784G
 #https://siomay.macan.live/stream/assp1/playlist.m3u8?
 
 #EXTINF:-1 tvg-logo="KOSONG" group-title="SPORT", Astro Super Sport 2
-https://delivery.macan.live/stream/macan_sport_11/index.m3u8?token=ZCjg784G
-#https://siomay.macan.live/stream/assp2/playlist.m3u8?
+https://siomay.macan.live/stream/assp2/playlist.m3u8?
+#https://delivery.macan.live/stream/macan_sport_11/index.m3u8?token=ZCjg784G
+
 
 #EXTINF:-1 tvg-logo="KOSONG" group-title="SPORT", Astro Super Sport 3
-https://delivery.macan.live/stream/macan_sport_12/index.m3u8?token=ZCjg784G
-#https://siomay.macan.live/stream/assp3/playlist.m3u8?
+https://siomay.macan.live/stream/assp3/playlist.m3u8?
+#https://delivery.macan.live/stream/macan_sport_12/index.m3u8?token=ZCjg784G
+
 
 #EXTINF:-1 tvg-logo="KOSONG" group-title="SPORT", Astro Super Sport 4
 https://delivery.macan.live/stream/macan_sport_13/index.m3u8?token=ZCjg784G
