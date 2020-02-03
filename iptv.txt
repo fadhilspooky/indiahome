@@ -458,8 +458,21 @@ https://delivery.macan.live/stream/macan_sport_3/index.m3u8?token=ZCjg784G
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_useesports2_big.png" group-title="SPORT", Usee Sports 2
 https://delivery.macan.live/stream/macan_sport_4/index.m3u8?token=ZCjg784G
 
-#EXTINF:-1 tvg-logo="KOSONG" group-title="SPORT", Astro Super Sport
+#EXTINF:-1 tvg-logo="KOSONG" group-title="SPORT", Astro Cricket
+https://delivery.macan.live/stream/macan_sport_14/index.m3u8?token=ZCjg784G
+
+#EXTINF:-1 tvg-logo="KOSONG" group-title="SPORT", Astro Arena
 https://delivery.macan.live/stream/macan_sport_9/index.m3u8?token=ZCjg784G
+#https://siomay.macan.live/stream/assp1/playlist.m3u8?
+
+#EXTINF:-1 tvg-logo="KOSONG" group-title="SPORT", Astro Super  Sports Live
+https://delivery.macan.live/stream/macan_sport_17/index.m3u8?token=ZCjg784G
+
+#EXTINF:-1 tvg-logo="KOSONG" group-title="SPORT", Astro Super Sports Live 2
+https://delivery.macan.live/stream/macan_sport_18/index.m3u8?token=ZCjg784G
+
+#EXTINF:-1 tvg-logo="KOSONG" group-title="SPORT", Astro Super Sport
+https://delivery.macan.live/stream/macan_sport_10/index.m3u8?token=ZCjg784G
 #https://siomay.macan.live/stream/assp1/playlist.m3u8?
 
 #EXTINF:-1 tvg-logo="KOSONG" group-title="SPORT", Astro Super Sport 2
@@ -467,12 +480,15 @@ https://delivery.macan.live/stream/macan_sport_10/index.m3u8?token=ZCjg784G
 #https://siomay.macan.live/stream/assp2/playlist.m3u8?
 
 #EXTINF:-1 tvg-logo="KOSONG" group-title="SPORT", Astro Super Sport 3
-https://siomay.macan.live/stream/assp3/playlist.m3u8?
-#https://delivery.macan.live/stream/macan_sport_11/index.m3u8?token=ZCjg784G
+https://delivery.macan.live/stream/macan_sport_11/index.m3u8?token=ZCjg784G
+#https://siomay.macan.live/stream/assp3/playlist.m3u8?
 
 #EXTINF:-1 tvg-logo="KOSONG" group-title="SPORT", Astro Super Sport 4
-https://delivery.macan.live/stream/macan_sport_12/index.m3u8?token=ZCjg784G
+https://delivery.macan.live/stream/macan_sport_13/index.m3u8?token=ZCjg784G
 #https://siomay.macan.live/stream/assp4/playlist.m3u8?
+
+#EXTINF:-1 tvg-logo="KOSONG" group-title="SPORT", BeIN Sport Live
+https://delivery.macan.live/stream/macan_sport_16/index.m3u8?token=ZCjg784G
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_bein1_big1.png" group-title="SPORT", BeIN Sport 1
 https://delivery.macan.live/stream/macan_sport_1/index.m3u8?token=ZCjg784G
@@ -499,7 +515,8 @@ https://delivery.macan.live/stream/macan_sport_6/index.m3u8?token=ZCjg784G
 #https://dl.dropbox.com/s/znpvtme2xmrlij2/Champ2.m3u8?dl=0
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_egg_big1.png" group-title="SPORT", EGG Network
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch319)/02.m3u8
+https://delivery.macan.live/stream/macan_sport_8/index.m3u8?token=ZCjg784G
+#http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch319)/02.m3u8
 
 #EXTINF:-1 tvg-logo="KOSONG" group-title="SPORT", Fight Sport
 https://anevia115.mncnow.id/live/eds/FightSports/sa_hls/FightSports-avc1_2499968=10-mp4a_98800_eng=5.m3u8
@@ -516,32 +533,11 @@ https://anevia115.mncnow.id/live/eds/FoxSports3/sa_hls/FoxSports3-avc1_2499968=1
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_golf_big1.png" group-title="SPORT", GOLF Channel
 https://www.livedoomovie.com/02_golfhd_720p/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="KOSONG" group-title="SPORT", Macan sport 7
-https://delivery.macan.live/stream/macan_sport_7/index.m3u8?token=ZCjg784G
-
-#EXTINF:-1 tvg-logo="KOSONG" group-title="SPORT", Macan sport 8
-https://delivery.macan.live/stream/macan_sport_8/index.m3u8?token=ZCjg784G
-
-#EXTINF:-1 tvg-logo="KOSONG" group-title="SPORT", Macan sport 13
-https://delivery.macan.live/stream/macan_sport_13/index.m3u8?token=ZCjg784G
-
-#EXTINF:-1 tvg-logo="KOSONG" group-title="SPORT", Macan sport 14
-https://delivery.macan.live/stream/macan_sport_14/index.m3u8?token=ZCjg784G
-
-#EXTINF:-1 tvg-logo="KOSONG" group-title="SPORT", Macan sport 15
-https://delivery.macan.live/stream/macan_sport_15/index.m3u8?token=ZCjg784G
-
-#EXTINF:-1 tvg-logo="KOSONG" group-title="SPORT", Macan sport 16
-https://delivery.macan.live/stream/macan_sport_16/index.m3u8?token=ZCjg784G
-
-#EXTINF:-1 tvg-logo="KOSONG" group-title="SPORT", Macan sport 17
-https://delivery.macan.live/stream/macan_sport_17/index.m3u8?token=ZCjg784G
-
-#EXTINF:-1 tvg-logo="KOSONG" group-title="SPORT", Macan sport 18
-https://delivery.macan.live/stream/macan_sport_18/index.m3u8?token=ZCjg784G
-
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_nba_big1.png" group-title="SPORT", NBA TV
 https://www.livedoomovie.com/02_nbahd_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="KOSONG" group-title="SPORT", NBCSN
+https://delivery.macan.live/stream/macan_sport_7/index.m3u8?token=ZCjg784G
 
 #EXTINF:-1 tvg-logo="KOSONG" group-title="SPORT", Sony ESPN
 https://streamer-1.toffeelive.com/live/sony_espn_576/index.m3u8
@@ -563,6 +559,9 @@ https://www.livedoomovie.com/03_skynetsport3_480p/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="KOSONG" group-title="SPORT", TVRI Sport
 http://210.210.155.35/session/69e800f6-97c0-11e9-888f-b82a72d63267/qwr9ew/s/s107/02.m3u8
+
+#EXTINF:-1 tvg-logo="KOSONG" group-title="SPORT", WWE Network
+https://delivery.macan.live/stream/macan_sport_15/index.m3u8?token=ZCjg784G
 
 
 #NEWS
