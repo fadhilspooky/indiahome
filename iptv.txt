@@ -145,8 +145,8 @@ http://213.174.8.7:11111/index.m3u8
 https://liveanevia.mncnow.id/live/eds/DisneyChannel/sa_hls/DisneyChannel-avc1_2499968=7-mp4a_98800_ind=9.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/fadhilspooky/indiahome/master/assets/images/channels/logo_disneyjr.png" group-title="KIDS", Disney Junior
-http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8
-#https://delivery.macan.live/stream/disneyjunior/index.m3u8?token=DHnXAlx6
+https://delivery.macan.live/stream/disneyjunior/index.m3u8?token=ZCjg784G
+#http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/fadhilspooky/indiahome/master/assets/images/channels/logo_disneyxd.png" group-title="KIDS", Disney XD
 https://liveanevia.mncnow.id/live/eds/DisneyXD/sa_hls/DisneyXD.m3u8
@@ -194,7 +194,7 @@ https://liveanevia.mncnow.id/live/eds/STARWorld/sa_hls/STARWorld.m3u8
 
 #EXTINF:-1 tvg-logo="KOSONG" group-title="LIFESTYLE", HGTV
 https://liveanevia.mncnow.id/live/eds/HGTV/sa_hls/HGTV.m3u8
-#https://delivery.macan.live/stream/hgtv/index.m3u8?token=DHnXAlx6
+#https://delivery.macan.live/stream/hgtv/index.m3u8?token=ZCjg784G
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/fadhilspooky/indiahome/master/assets/images/channels/logo_home&living.png" group-title="LIFESTYLE", Home & Living
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:homelivinghd/playlist.m3u8
@@ -272,6 +272,9 @@ http://45.126.83.51/qwr9ew/s/s19/01.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_citradrama_big.png" group-title="ENTERTAINMENT", Citra Drama
 https://dl.dropbox.com/s/2f1e4vq02tpu2pc/Citra%20drama.m3u8?dl=0
 
+#EXTINF:-1 tvg-logo="Kosong" group-title="ENTERTAINMENT", DIVA
+https://delivery.macan.live/stream/diva/index.m3u8?token=ZCjg784G
+
 #EXTINF:-1 tvg-logo="Kosong" group-title="ENTERTAINMENT", Fail Army
 https://livetvhooq.akamaized.net:443/166d36fe333a41e7846c47c07aa4919c/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1573599949~exp=9007200828340940~acl=/166d36fe333a41e7846c47c07aa4919c/*/profile_0/chunklist.m3u8*~hmac=f6dc30f96b4ccc9366031d95a30921884645efb4bedd2caf28eadee41e95bfd8
 
@@ -335,21 +338,21 @@ https://liveanevia.mncnow.id/live/eds/ZeeCinema/sa_hls/ZeeCinema.m3u8
 
 #TV SERIES
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_axn_big.png" group-title="TV SERIES", AXN
-https://siomay.macan.live/stream/axn/playlist.m3u8?
+https://delivery.macan.live/stream/id_axn/index.m3u8?token=ZCjg784G
+#https://siomay.macan.live/stream/axn/playlist.m3u8?
 #http://210.210.155.66/h/h141/02.m3u8
-#https://delivery.macan.live/stream/id_axn/index.m3u8?token=DHnXAlx6
 
 #EXTINF:-1 tvg-logo="KOSONG" group-title="TV SERIES", FOX
-https://liveanevia.mncnow.id/live/eds/FoxChannel/sa_hls/FoxChannel-avc1_2499968=11-mp4a_98800_eng=3.m3u8
-#https://delivery.macan.live/stream/id_fox/index.m3u8?token=DHnXAlx6
+https://delivery.macan.live/stream/id_fox/index.m3u8?token=ZCjg784G
+#https://liveanevia.mncnow.id/live/eds/FoxChannel/sa_hls/FoxChannel-avc1_2499968=11-mp4a_98800_eng=3.m3u8
 
 #EXTINF:-1 tvg-logo="KOSONG" group-title="TV SERIES", FOX Crime
 https://liveanevia.mncnow.id/live/eds/FoxCrime/sa_hls/FoxCrime-avc1_2499968=10-mp4a_98800_eng=3.m3u8
 
 #EXTINF:-1 tvg-logo="KOSONG" group-title="TV SERIES", FX
-https://siomay.macan.live/stream/fx/playlist.m3u8?
+https://delivery.macan.live/stream/id_fx/index.m3u8?token=ZCjg784G
+#https://siomay.macan.live/stream/fx/playlist.m3u8?
 #https://liveanevia.mncnow.id/live/eds/FX/sa_hls/FX-avc1_2499968=10-mp4a_98800_eng=3.m3u8
-#https://delivery.macan.live/stream/id_fx/index.m3u8?token=DHnXAlx6
 
 #EXTINF:-1 tvg-logo="KOSONG" group-title="TV SERIES", J'go
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:jgoch/chunklist_b2288000.m3u8?fluxustv.m3u8
@@ -375,45 +378,46 @@ https://anevia115.mncnow.id:443/live/eds/CelestialMovie/sa_hls/CelestialMovie-av
 https://liveanevia.mncnow.id/live/eds/CelestialClassic/sa_hls/CelestialClassic-avc1_1000000=7-mp4a_98800_eng=5.m3u8
 
 #EXTINF:-1 tvg-logo="KOSONG" group-title="MOVIE", CINEMAX
-https://liveanevia.mncnow.id/live/eds/CinemaxHD/sa_hls/CinemaxHD.m3u8
+https://delivery.macan.live/stream/cinemax/index.m3u8?token=ZCjg784G
+#https://liveanevia.mncnow.id/live/eds/CinemaxHD/sa_hls/CinemaxHD.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_cinemaworld_big.png" group-title="MOVIE", Cinema World
 https://liveanevia.mncnow.id/live/eds/CinemaWorld/sa_hls/CinemaWorld-avc1_2499968=13-mp4a_98800_eng=3.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRzruwdRLgzquY4qy1BECjuu3tnQZ7zUD8gfUY5ipAZaqC844nj" group-title="MOVIE", FOX Movie
-https://siomay.macan.live/stream/foxmoviespremium/playlist.m3u8?
+https://delivery.macan.live/stream/id_foxmoviespremium/index.m3u8?token=ZCjg784G
+#https://siomay.macan.live/stream/foxmoviespremium/playlist.m3u8?
 #http://203.153.218.28:9981/stream/channelid/756717990?ticket=B63A8893B7D332F2F7ACFD3C14E761032035F66E&amp;profile=pass
-#https://delivery.macan.live/stream/id_foxmoviespremium/index.m3u8?token=DHnXAlx6
 
 #EXTINF:-1 tvg-logo="KOSONG" group-title="MOVIE", FOX Action Movie
-https://siomay.macan.live/stream/foxactionmovies/playlist.m3u8?
+https://delivery.macan.live/stream/id_foxactionmovies/index.m3u8?token=ZCjg784G
+#https://siomay.macan.live/stream/foxactionmovies/playlist.m3u8?
 #http://idxcode.streamid.tv:25251/live/stream/ID/44.m3u8
-#https://delivery.macan.live/stream/id_foxactionmovies/index.m3u8?token=DHnXAlx6
 
 #EXTINF:-1 tvg-logo="KOSONG" group-title="MOVIE", FOX Family Movie
-https://siomay.macan.live/stream/foxfamilymovies/playlist.m3u8?
+https://delivery.macan.live/stream/id_foxfamilymovies/index.m3u8?token=ZCjg784G
+#https://siomay.macan.live/stream/foxfamilymovies/playlist.m3u8?
 #http://203.153.218.28:9981/stream/channelid/1949182550?ticket=C4FE458C6B9C4686BA0966E59174C0D6805DBB39&profile=pass
-#https://delivery.macan.live/stream/id_foxfamilymovies/index.m3u8?token=DHnXAlx6
 
 #EXTINF:-1 tvg-logo="KOSONG" group-title="MOVIE", HBO
-https://siomay.macan.live/stream/hbo/playlist.m3u8?
+https://delivery.macan.live/stream/hbo/index.m3u8?token=ZCjg784G
+#https://siomay.macan.live/stream/hbo/playlist.m3u8?
 #http://idxcode.streamid.tv:25251/live/stream/ID/51.m3u8
-#https://delivery.macan.live/stream/hbo/index.m3u8?token=DHnXAlx6
 
 #EXTINF:-1 tvg-logo="KOSONG" group-title="MOVIE", HBO Hits
-https://siomay.macan.live/stream/hbo_hits/playlist.m3u8?
+https://delivery.macan.live/stream/hbo_hits/index.m3u8?token=ZCjg784G
+#https://siomay.macan.live/stream/hbo_hits/playlist.m3u8?
 #https://anevia115.mncnow.id/live/eds/HBOHits/sa_hls/HBOHits-avc1_2499968=10-mp4a_98800_eng=3.m3u8
-#https://delivery.macan.live/stream/hbo_hits/index.m3u8?token=DHnXAlx6
 
 #EXTINF:-1 tvg-logo="KOSONG" group-title="MOVIE", HBO Family
-https://siomay.macan.live/stream/hbo_family/playlist.m3u8?
+https://delivery.macan.live/stream/hbo_family/index.m3u8?token=ZCjg784G
+#https://siomay.macan.live/stream/hbo_family/playlist.m3u8?
 #http://203.153.218.28:9981/stream/channelid/1316004766?ticket=5F57E6E5C9291700E8B75D86F760C75666701FBB&profile=pass
-#https://delivery.macan.live/stream/hbo_family/index.m3u8?token=DHnXAlx6
 
 #EXTINF:-1 tvg-logo="KOSONG" group-title="MOVIE", HBO Signature
-https://siomay.macan.live/stream/hbo_signature/playlist.m3u8?
+https://delivery.macan.live/stream/hbo_signature/index.m3u8?token=ZCjg784G
+#https://siomay.macan.live/stream/hbo_signature/playlist.m3u8?
 #https://anevia115.mncnow.id/live/eds/HBOSignature/sa_hls/HBOSignature-avc1_2499968=7-mp4a_98800_eng=3.m3u8
-#https://delivery.macan.live/stream/hbo_signature/index.m3u8?token=DHnXAlx6
 
 #EXTINF:-1 tvg-logo="KOSONG" group-title="MOVIE", Hits
 https://liveanevia.mncnow.id/live/eds/HITS/sa_hls/HITS-avc1_2499968=11-mp4a_98800_eng=5.m3u8
@@ -424,8 +428,8 @@ https://liveanevia.mncnow.id/live/eds/HitsMovies/sa_hls/HitsMovies-avc1_2499968=
 #EXTINF:-1 tvg-logo="KOSONG" group-title="MOVIE", My Cinema
 http://210.210.155.35/x6bnqe/s/s31/index2.m3u8
 
-# tvg-logo="KOSONG" group-title="MOVIE", Red by HBO
-# https://delivery.macan.live/stream/redhbo/index.m3u8?token=DHnXAlx6
+#EXTINF:-1 tvg-logo="KOSONG" group-title="MOVIE", Red by HBO
+https://delivery.macan.live/stream/redhbo/index.m3u8?token=ZCjg784G
 
 #EXTINF:-1 tvg-logo="KOSONG" group-title="MOVIE", Sinema Indonesia
 http://210.210.155.35/session/44f6d74a-01a1-11ea-b55a-9182955aa916/x6bnqe/s/s71/S4/mnf.m3u8
@@ -449,36 +453,36 @@ https://liveanevia.mncnow.id/live/eds/MNCSports/sa_hls/MNCSports.m3u8
 https://liveanevia.mncnow.id/live/eds/SoccerChannel/sa_hls/SoccerChannel.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_useesport_big.png" group-title="SPORT", Usee Sport
-https://delivery.macan.live/stream/macan_sport_3/index.m3u8?token=DHnXAlx6
+https://delivery.macan.live/stream/macan_sport_3/index.m3u8?token=ZCjg784G
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_useesports2_big.png" group-title="SPORT", Usee Sports 2
-https://delivery.macan.live/stream/macan_sport_4/index.m3u8?token=DHnXAlx6
+https://delivery.macan.live/stream/macan_sport_4/index.m3u8?token=ZCjg784G
 
 #EXTINF:-1 tvg-logo="KOSONG" group-title="SPORT", Astro Super Sport
-https://siomay.macan.live/stream/assp1/playlist.m3u8?
-#https://delivery.macan.live/stream/macan_sport_9/index.m3u8?token=DHnXAlx6
+https://delivery.macan.live/stream/macan_sport_9/index.m3u8?token=ZCjg784G
+#https://siomay.macan.live/stream/assp1/playlist.m3u8?
 
 #EXTINF:-1 tvg-logo="KOSONG" group-title="SPORT", Astro Super Sport 2
-https://siomay.macan.live/stream/assp2/playlist.m3u8?
-#https://delivery.macan.live/stream/macan_sport_10/index.m3u8?token=DHnXAlx6
+https://delivery.macan.live/stream/macan_sport_10/index.m3u8?token=ZCjg784G
+#https://siomay.macan.live/stream/assp2/playlist.m3u8?
 
 #EXTINF:-1 tvg-logo="KOSONG" group-title="SPORT", Astro Super Sport 3
 https://siomay.macan.live/stream/assp3/playlist.m3u8?
-#https://delivery.macan.live/stream/macan_sport_11/index.m3u8?token=DHnXAlx6
+#https://delivery.macan.live/stream/macan_sport_11/index.m3u8?token=ZCjg784G
 
 #EXTINF:-1 tvg-logo="KOSONG" group-title="SPORT", Astro Super Sport 4
-https://siomay.macan.live/stream/assp4/playlist.m3u8?
-#https://delivery.macan.live/stream/macan_sport_12/index.m3u8?token=DHnXAlx6
+https://delivery.macan.live/stream/macan_sport_12/index.m3u8?token=ZCjg784G
+#https://siomay.macan.live/stream/assp4/playlist.m3u8?
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_bein1_big1.png" group-title="SPORT", BeIN Sport 1
-https://siomay.macan.live/stream/bein1/playlist.m3u8?
+https://delivery.macan.live/stream/macan_sport_1/index.m3u8?token=ZCjg784G
+#https://siomay.macan.live/stream/bein1/playlist.m3u8?
 #https://www.livedoomovie.com/02_epl1_720p/chunklist.m3u8
-#https://delivery.macan.live/stream/macan_sport_1/index.m3u8?token=DHnXAlx6
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_bein2_big1.png" group-title="SPORT", BeIN Sport 2
-https://siomay.macan.live/stream/bein2/playlist.m3u8?
+https://delivery.macan.live/stream/macan_sport_2/index.m3u8?token=ZCjg784G
+#https://siomay.macan.live/stream/bein2/playlist.m3u8?
 #https://www.livedoomovie.com/02_epl2_720p/chunklist.m3u8
-#https://delivery.macan.live/stream/macan_sport_2/index.m3u8?token=DHnXAlx6
 
 #EXTINF:-1 tvg-logo="KOSONG" group-title="SPORT", BT Sport 1
 http://95.170.215.120/hls/m3u8/BT-Sport-1HD.m3u8
@@ -487,12 +491,12 @@ http://95.170.215.120/hls/m3u8/BT-Sport-1HD.m3u8
 http://95.170.215.120/hls/m3u8/BT-Sport-2HD.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_champ1_big.png" group-title="SPORT", Champions TV 1
-https://dl.dropbox.com/s/vcda69kz7mnio6e/Champ1.m3u8?dl=0
-#https://delivery.macan.live/stream/macan_sport_5/index.m3u8?token=DHnXAlx6
+https://delivery.macan.live/stream/macan_sport_5/index.m3u8?token=ZCjg784G
+#https://dl.dropbox.com/s/vcda69kz7mnio6e/Champ1.m3u8?dl=0
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_champ2_big.png" group-title="SPORT", Champions TV 2
-https://dl.dropbox.com/s/znpvtme2xmrlij2/Champ2.m3u8?dl=0
-#https://delivery.macan.live/stream/macan_sport_6/index.m3u8?token=DHnXAlx6
+https://delivery.macan.live/stream/macan_sport_6/index.m3u8?token=ZCjg784G
+#https://dl.dropbox.com/s/znpvtme2xmrlij2/Champ2.m3u8?dl=0
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_egg_big1.png" group-title="SPORT", EGG Network
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch319)/02.m3u8
@@ -512,29 +516,29 @@ https://anevia115.mncnow.id/live/eds/FoxSports3/sa_hls/FoxSports3-avc1_2499968=1
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_golf_big1.png" group-title="SPORT", GOLF Channel
 https://www.livedoomovie.com/02_golfhd_720p/chunklist.m3u8
 
-# tvg-logo="KOSONG" group-title="SPORT", Macan sport 7
-# https://delivery.macan.live/stream/macan_sport_7/index.m3u8?token=DHnXAlx6
+#EXTINF:-1 tvg-logo="KOSONG" group-title="SPORT", Macan sport 7
+https://delivery.macan.live/stream/macan_sport_7/index.m3u8?token=ZCjg784G
 
-# tvg-logo="KOSONG" group-title="SPORT", Macan sport 8
-# https://delivery.macan.live/stream/macan_sport_8/index.m3u8?token=DHnXAlx6
+#EXTINF:-1 tvg-logo="KOSONG" group-title="SPORT", Macan sport 8
+https://delivery.macan.live/stream/macan_sport_8/index.m3u8?token=ZCjg784G
 
-# tvg-logo="KOSONG" group-title="SPORT", Macan sport 13
-# https://delivery.macan.live/stream/macan_sport_13/index.m3u8?token=DHnXAlx6
+#EXTINF:-1 tvg-logo="KOSONG" group-title="SPORT", Macan sport 13
+https://delivery.macan.live/stream/macan_sport_13/index.m3u8?token=ZCjg784G
 
-# tvg-logo="KOSONG" group-title="SPORT", Macan sport 14
-# https://delivery.macan.live/stream/macan_sport_14/index.m3u8?token=DHnXAlx6
+#EXTINF:-1 tvg-logo="KOSONG" group-title="SPORT", Macan sport 14
+https://delivery.macan.live/stream/macan_sport_14/index.m3u8?token=ZCjg784G
 
-# tvg-logo="KOSONG" group-title="SPORT", Macan sport 15
-# https://delivery.macan.live/stream/macan_sport_15/index.m3u8?token=DHnXAlx6
+#EXTINF:-1 tvg-logo="KOSONG" group-title="SPORT", Macan sport 15
+https://delivery.macan.live/stream/macan_sport_15/index.m3u8?token=ZCjg784G
 
-# tvg-logo="KOSONG" group-title="SPORT", Macan sport 16
-# https://delivery.macan.live/stream/macan_sport_16/index.m3u8?token=DHnXAlx6
+#EXTINF:-1 tvg-logo="KOSONG" group-title="SPORT", Macan sport 16
+https://delivery.macan.live/stream/macan_sport_16/index.m3u8?token=ZCjg784G
 
-# tvg-logo="KOSONG" group-title="SPORT", Macan sport 17
-# https://delivery.macan.live/stream/macan_sport_17/index.m3u8?token=DHnXAlx6
+#EXTINF:-1 tvg-logo="KOSONG" group-title="SPORT", Macan sport 17
+https://delivery.macan.live/stream/macan_sport_17/index.m3u8?token=ZCjg784G
 
-# tvg-logo="KOSONG" group-title="SPORT", Macan sport 18
-# https://delivery.macan.live/stream/macan_sport_18/index.m3u8?token=DHnXAlx6
+#EXTINF:-1 tvg-logo="KOSONG" group-title="SPORT", Macan sport 18
+https://delivery.macan.live/stream/macan_sport_18/index.m3u8?token=ZCjg784G
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_nba_big1.png" group-title="SPORT", NBA TV
 https://www.livedoomovie.com/02_nbahd_720p/chunklist.m3u8
