@@ -390,7 +390,7 @@ https://delivery.macan.live/stream/cinemax/index.m3u8?token=ZCjg784G
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_cinemaworld_big.png" group-title="MOVIE", Cinema World
 https://liveanevia.mncnow.id/live/eds/CinemaWorld/sa_hls/CinemaWorld.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRzruwdRLgzquY4qy1BECjuu3tnQZ7zUD8gfUY5ipAZaqC844nj" group-title="MOVIE", FOX Movies
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/fadhilspooky/indiahome/master/assets/images/channels/logo_foxm.png" group-title="MOVIE", FOX Movies
 https://delivery.macan.live/stream/id_foxmoviespremium/index.m3u8?token=ZCjg784G
 #https://siomay.macan.live/stream/foxmoviespremium/playlist.m3u8?
 #http://203.153.218.28:9981/stream/channelid/756717990?ticket=B63A8893B7D332F2F7ACFD3C14E761032035F66E&amp;profile=pass
