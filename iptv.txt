@@ -327,7 +327,7 @@ http://210.210.155.35/session/971493a0-0192-11ea-b1fb-b82a72d63267/qwr9ew/s/s42/
 http://210.210.155.35/uq2663/h/h08/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_nhkworld_big.png" group-title="ENTERTAINMENT", NHK World Japan
-http://210.210.155.35/uq2663/h/h23/index1.m3u8
+https://liveanevia.mncnow.id/live/eds/NHKWorldTV/sa_hls/NHKWorldTV.m3u8
 
 #EXTINF:-1 tvg-logo="KOSONG" group-title="ENTERTAINMENT", NHK World Premium
 https://liveanevia.mncnow.id/live/eds/NHKWorldPremium/sa_hls/NHKWorldPremium.m3u8
@@ -460,10 +460,12 @@ https://delivery.macan.live/stream/hbo_signature/index.m3u8?token=ZCjg784G
 #https://anevia115.mncnow.id/live/eds/HBOSignature/sa_hls/HBOSignature-avc1_2499968=7-mp4a_98800_eng=3.m3u8
 
 #EXTINF:-1 tvg-logo="KOSONG" group-title="MOVIE", Hits
-https://liveanevia.mncnow.id/live/eds/HITS/sa_hls/HITS-avc1_2499968=11-mp4a_98800_eng=5.m3u8
+https://liveanevia.mncnow.id/live/eds/HITS/sa_hls/HITS.m3u8
+#https://liveanevia.mncnow.id/live/eds/HITS/sa_hls/HITS-avc1_2499968=11-mp4a_98800_eng=5.m3u8
 
 #EXTINF:-1 tvg-logo="KOSONG" group-title="MOVIE", Hits Movies
-https://liveanevia.mncnow.id/live/eds/HitsMovies/sa_hls/HitsMovies-avc1_2499968=12-mp4a_98800_eng=5.m3u8
+https://liveanevia.mncnow.id/live/eds/HitsMovies/sa_hls/HitsMovies.m3u8
+#https://liveanevia.mncnow.id/live/eds/HitsMovies/sa_hls/HitsMovies-avc1_2499968=12-mp4a_98800_eng=5.m3u8
 
 #EXTINF:-1 tvg-logo="KOSONG" group-title="MOVIE", My Cinema
 http://210.210.155.35/x6bnqe/s/s31/index2.m3u8
