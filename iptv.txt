@@ -67,7 +67,8 @@ https://liveanevia.mncnow.id/live/eds/NetTV/sa_hls/NetTV.m3u8
 https://liveanevia.mncnow.id/live/eds/RTV/sa_hls/RTV.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/fadhilspooky/indiahome/master/assets/images/channels/logo_rcti.png" group-title="LOKAL", RCTI
-https://live.rctiplus.id/rctiplus/rcti_720p.m3u8
+https://liveanevia.mncnow.id/live/eds/RCTI/sa_hls/RCTI.m3u8
+#https://live.rctiplus.id/rctiplus/rcti_720p.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_rri_big1.png" group-title="LOKAL", RRI NET
 http://stream1.ninmedia.tv/rrinet/udp.stream_360p/playlist.m3u8
@@ -212,10 +213,11 @@ http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:homelivinghd/playlist.m
 https://liveanevia.mncnow.id/live/eds/LifeStyleFashion/sa_hls/LifeStyleFashion.m3u8
 
 #EXTINF:-1 tvg-logo="KOSONG" group-title="LIFESTYLE", Outdoor Channel
-https://dl.dropbox.com/s/b0m53oaf0li7fv8/Outdoor.m3u8?dl=0,
+https://dl.dropbox.com/s/b0m53oaf0li7fv8/Outdoor.m3u8?dl=0
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/fadhilspooky/indiahome/master/assets/images/channels/logo_tlc.png" group-title="LIFESTYLE", TLC
-http://203.153.218.28:9981/stream/channelid/391618553?ticket=78F887BA5B832279E75370788BBE22D4FDD521CB&profile=pass
+https://liveanevia.mncnow.id/live/eds/TLC/sa_hls/TLC.m3u8
+#http://203.153.218.28:9981/stream/channelid/391618553?ticket=78F887BA5B832279E75370788BBE22D4FDD521CB&profile=pass
 
 
 #MUSIC
@@ -313,6 +315,9 @@ http://210.210.155.35/uq2663/h/h08/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_nhkworld_big.png" group-title="ENTERTAINMENT", NHK World Japan
 https://liveanevia.mncnow.id/live/eds/NHKWorldTV/sa_hls/NHKWorldTV.m3u8
+
+#EXTINF:-1 tvg-logo="KOSONG" group-title="ENTERTAINMENT", MNC Channel
+https://liveanevia.mncnow.id/live/eds/MNCChannel/sa_hls/MNCChannel.m3u8
 
 #EXTINF:-1 tvg-logo="KOSONG" group-title="ENTERTAINMENT", NHK World Premium
 https://liveanevia.mncnow.id/live/eds/NHKWorldPremium/sa_hls/NHKWorldPremium.m3u8
@@ -597,7 +602,7 @@ https://liveanevia.mncnow.id/live/eds/BeritaSatu/sa_hls/BeritaSatu.m3u8
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsworld/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_bloomberg_big1.png" group-title="NEWS", Bloomberg
-http://45.126.83.51/session/57eab37e-019e-11ea-b7f6-aa7099a066d0/uq2663/h/h03/index.m3u8
+https://liveanevia.mncnow.id/live/eds/Bloomberg/sa_hls/Bloomberg.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_newsasia_big.png" group-title="NEWS", CNA
 https://liveanevia.mncnow.id/live/eds/ChannelNewsAsia/sa_hls/ChannelNewsAsia.m3u8
@@ -606,7 +611,8 @@ https://liveanevia.mncnow.id/live/eds/ChannelNewsAsia/sa_hls/ChannelNewsAsia.m3u
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_cnninternational_big.png" group-title="NEWS", CNN International
-https://delivery.macan.live/stream/cnninternational/index.m3u8?token=ZCjg784G
+https://liveanevia.mncnow.id/live/eds/CNNInternational/sa_hls/CNNInternational.m3u8
+#https://delivery.macan.live/stream/cnninternational/index.m3u8?token=ZCjg784G
 #http://203.153.218.28:9981/stream/channelid/1328589592?ticket=3A77BAE803C77F261879F637E4B795AB373D238F&profile=pass
 
 #EXTINF:-1 tvg-logo="KOSONG" group-title="NEWS", CNBC Indonesia
