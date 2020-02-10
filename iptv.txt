@@ -362,9 +362,9 @@ https://liveanevia.mncnow.id/live/eds/ZeeCinema/sa_hls/ZeeCinema.m3u8
 
 #TV SERIES
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_axn_big.png" group-title="TV SERIES", AXN
-https://delivery.macan.live/stream/id_axn/index.m3u8?token=ZCjg784G
+http://210.210.155.66/h/h141/02.m3u8
+#https://delivery.macan.live/stream/id_axn/index.m3u8?token=ZCjg784G
 #https://siomay.macan.live/stream/axn/playlist.m3u8?
-#http://210.210.155.66/h/h141/02.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/fadhilspooky/indiahome/master/assets/images/channels/logo_fox.png" group-title="TV SERIES", FOX
 https://liveanevia.mncnow.id/live/eds/FoxChannel/sa_hls/FoxChannel.m3u8
@@ -564,7 +564,7 @@ https://www.livedoomovie.com/02_golfhd_720p/chunklist.m3u8
 https://www.livedoomovie.com/02_nbahd_720p/chunklist.m3u8
 
 # tvg-logo="https://raw.githubusercontent.com/fadhilspooky/indiahome/master/assets/images/channels/logo_nbcsn.png" group-title="SPORT", NBCSN
-https://delivery.macan.live/stream/macan_sport_7/index.m3u8?token=ZCjg784G
+#https://delivery.macan.live/stream/macan_sport_7/index.m3u8?token=ZCjg784G
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/fadhilspooky/indiahome/master/assets/images/channels/logo_espn.png" group-title="SPORT", Sony ESPN
 https://streamer-1.toffeelive.com/live/sony_espn_576/index.m3u8
@@ -587,8 +587,8 @@ https://livetvhooq.akamaized.net:443/aead26cfa8f6495c98e63a02d4e2f20e/ap-southea
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/fadhilspooky/indiahome/master/assets/images/channels/logo_tvrisport.png" group-title="SPORT", TVRI Sport
 http://210.210.155.35/session/69e800f6-97c0-11e9-888f-b82a72d63267/qwr9ew/s/s107/02.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/fadhilspooky/indiahome/master/assets/images/channels/logo_wwenetwork.png" group-title="SPORT", WWE Network
-https://delivery.macan.live/stream/macan_sport_15/index.m3u8?token=ZCjg784G
+# tvg-logo="https://raw.githubusercontent.com/fadhilspooky/indiahome/master/assets/images/channels/logo_wwenetwork.png" group-title="SPORT", WWE Network
+#https://delivery.macan.live/stream/macan_sport_15/index.m3u8?token=ZCjg784G
 
 
 #NEWS
