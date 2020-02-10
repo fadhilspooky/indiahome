@@ -425,7 +425,7 @@ http://203.153.218.28:9981/stream/channelid/756717990?ticket=B63A8893B7D332F2F7A
 #https://siomay.macan.live/stream/foxmoviespremium/playlist.m3u8?
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/fadhilspooky/indiahome/master/assets/images/channels/logo_foxam.png" group-title="MOVIE", FOX Action Movies
-#https://anevia115.mncnow.id/live/eds/FoxActionMovies/sa_hls/FoxActionMovies.m3u8
+https://anevia115.mncnow.id/live/eds/FoxActionMovies/sa_hls/FoxActionMovies.m3u8
 #https://delivery.macan.live/stream/id_foxactionmovies/index.m3u8?token=ZCjg784G
 #https://siomay.macan.live/stream/foxactionmovies/playlist.m3u8?
 #http://idxcode.streamid.tv:25251/live/stream/ID/44.m3u8
