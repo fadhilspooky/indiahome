@@ -20,17 +20,17 @@ https://livetvhooq.akamaized.net/8eb1108c494240ef94c5c8ae7e572c29/eu-central-1/5
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_antv_big1.png" group-title="LOKAL", ANTV
 http://210.210.155.35/qwr9ew/s/s102/01.m3u8
 #https://delivery.macan.live/stream/id_antv/index.m3u8?token=gratisan
-#https://liveanevia.mncnow.id/live/eds/ANTV/sa_hls/ANTV.m3u8
+#https://anevia115.mncnow.id/live/eds/ANTV/sa_hls/ANTV.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_balitv_big1.png" group-title="LOKAL", Bali TV
-https://liveanevia.mncnow.id/live/eds/BaliTV/sa_hls/BaliTV.m3u8
+https://anevia115.mncnow.id/live/eds/BaliTV/sa_hls/BaliTV.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_daaitv_big1.png" group-title="LOKAL", DAII TV
 https://delivery.macan.live/stream/id_daai/index.m3u8?token=gratisan
-#https://liveanevia.mncnow.id/live/eds/DAAITV/sa_hls/DAAITV.m3u8
+#https://anevia115.mncnow.id/live/eds/DAAITV/sa_hls/DAAITV.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/fadhilspooky/indiahome/master/assets/images/channels/logo_gtv.png" group-title="LOKAL", GLOBAL TV
-https://liveanevia.mncnow.id/live/eds/GlobalTV/sa_hls/GlobalTV.m3u8
+https://anevia115.mncnow.id/live/eds/GlobalTV/sa_hls/GlobalTV.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_idku2_big.png" group-title="LOKAL", Idku
 https://livetvhooq.akamaized.net/8d310f35fdf349daab8e0610161060f1/eu-central-1/5493668622001/profile_1/chunklist.m3u8?hdnts=st=1572048854~exp=9007200826789845~acl=/8d310f35fdf349daab8e0610161060f1/*/profile_1/chunklist.m3u8*~hmac=eb90616605948f62a0c512ed38cdd06b0f5cf7bce0fee578df3441455b550da6
@@ -39,31 +39,31 @@ https://livetvhooq.akamaized.net/8d310f35fdf349daab8e0610161060f1/eu-central-1/5
 http://45.126.83.51/qwr9ew/s/s04/01.m3u8
 #https://delivery.macan.live/stream/id_indosiar/index.m3u8?token=MDuuD87q
 #http://203.153.218.28:9981/stream/channelid/261435212?ticket=4006885A62AC6F6CF48BE55E87E506C848CBFDB6&profile=pass
-#https://liveanevia.mncnow.id/live/eds/Indosiar/sa_hls/Indosiar.m3u8
+#https://anevia115.mncnow.id/live/eds/Indosiar/sa_hls/Indosiar.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/fadhilspooky/indiahome/master/assets/images/channels/logo_inews.png" group-title="LOKAL", INEWS TV
-https://liveanevia.mncnow.id/live/eds/iNewsTV/sa_hls/iNewsTV.m3u8
+https://anevia115.mncnow.id/live/eds/iNewsTV/sa_hls/iNewsTV.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_jaktv_big1.png" group-title="LOKAL", JAK TV
-https://delivery.macan.live/stream/id_jaktv/index.m3u8?token=gratisan
-#https://liveanevia.mncnow.id/live/eds/JakTV/sa_hls/JakTV.m3u8
+https://anevia115.mncnow.id/live/eds/JakTV/sa_hls/JakTV.m3u8
+#https://delivery.macan.live/stream/id_jaktv/index.m3u8?token=gratisan
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/fadhilspooky/indiahome/master/assets/images/channels/logo_jawapos.png" group-title="LOKAL", Jawapos TV
 https://dl.dropbox.com/s/c5pe05bpznbafh3/Jawapos2.m3u8?dl=0
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_jtv_big1.png" group-title="LOKAL", JTV
-https://liveanevia.mncnow.id/live/eds/JTV/sa_hls/JTV.m3u8
+https://anevia115.mncnow.id/live/eds/JTV/sa_hls/JTV.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_kompastv_big.png" group-title="LOKAL", Kompas TV
 http://202.80.222.182/000001/2/ch00000090990000001730/index.m3u8?virtualDomain=000001.live_hls.zte.com
 #https://delivery.macan.live/stream/id_kompastv/index.m3u8?token=gratisan
-#https://liveanevia.mncnow.id/live/eds/KompasTV/sa_hls/KompasTV.m3u8
+#https://anevia115.mncnow.id/live/eds/KompasTV/sa_hls/KompasTV.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_metrotv_big1.png" group-title="LOKAL", METRO TV
-https://liveanevia.mncnow.id/live/eds/MetroTV/sa_hls/MetroTV.m3u8
+https://anevia115.mncnow.id/live/eds/MetroTV/sa_hls/MetroTV.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/fadhilspooky/indiahome/master/assets/images/channels/logo_mnctv.png" group-title="LOKAL", MNCTV
-https://liveanevia.mncnow.id/live/eds/MNCTV/sa_hls/MNCTV.m3u8
+https://anevia115.mncnow.id/live/eds/MNCTV/sa_hls/MNCTV.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_mytv_big.png" group-title="LOKAL", Mytv
 https://livetvhooq.akamaized.net:443/b2fec42490a14386ac53eafa47f590a7/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1573597923~exp=9007200828338914~acl=/b2fec42490a14386ac53eafa47f590a7/*/profile_0/chunklist.m3u8*~hmac=15a17e5b10bc2f36b6fbe927f137fff5a759fcc501c3d6712d5976a51a9b45ea
@@ -71,16 +71,15 @@ https://livetvhooq.akamaized.net:443/b2fec42490a14386ac53eafa47f590a7/ap-southea
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_net_big1.png" group-title="LOKAL", NET TV
 https://cdn-accedo-01.akamaized.net:443/Content/DASH/Live/channel%28404d689d-691f-4035-9801-ae8bfd8712e9%29/manifest.mpd
 #https://delivery.macan.live/stream/id_nettv/index.m3u8?token=gratisan
-#https://liveanevia.mncnow.id/live/eds/NetTV/sa_hls/NetTV.m3u8
 #https://anevia115.mncnow.id/live/eds/NetTV/sa_hls/NetTV.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_rtv_big1.png" group-title="LOKAL", Rajawali TV
 http://202.80.222.170/000001/2/ch00000090990000001716/index.m3u8?virtualDomain=000001.live_hls.zte.com
 #https://delivery.macan.live/stream/id_rajawalitv/index.m3u8?token=gratisan
-#https://liveanevia.mncnow.id/live/eds/RTV/sa_hls/RTV.m3u8
+#https://anevia115.mncnow.id/live/eds/RTV/sa_hls/RTV.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/fadhilspooky/indiahome/master/assets/images/channels/logo_rcti.png" group-title="LOKAL", RCTI
-https://liveanevia.mncnow.id/live/eds/RCTI/sa_hls/RCTI.m3u8
+https://anevia115.mncnow.id/live/eds/RCTI/sa_hls/RCTI.m3u8
 #https://live.rctiplus.id/rctiplus/rcti_720p.m3u8
 
 # tvg-logo="https://www.useetv.com/assets/images/channel/logo_rri_big1.png" group-title="LOKAL", RRI NET
@@ -92,38 +91,37 @@ https://livetvhooq.akamaized.net/b1b6d552c80f4ef78bd4c10bfb32268d/eu-central-1/5
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_sctv_big1.png" group-title="LOKAL", SCTV
 http://210.210.155.35/qwr9ew/s/s103/01.m3u8
 #https://delivery.macan.live/stream/id_sctv/index.m3u8?token=gratisan
-#https://liveanevia.mncnow.id/live/eds/SCTV/sa_hls/SCTV.m3u8
+#https://anevia115.mncnow.id/live/eds/SCTV/sa_hls/SCTV.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_transtv_big1.png" group-title="LOKAL", TRANS TV
 http://video.detik.com/transtv/smil:transtv.smil/chunklist_w1982763047_b384000_sleng.m3u8
 #https://delivery.macan.live/stream/id_transtv/index.m3u8?token=gratisan
-#https://liveanevia.mncnow.id/live/eds/TransTV/sa_hls/TransTV.m3u8
-#https://anevia114.mncnow.id:443/live/eds/TransTV/sa_hls/TransTV.m3u8
+#https://anevia115.mncnow.id/live/eds/TransTV/sa_hls/TransTV.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_trans7_big1.png" group-title="LOKAL", TRANS 7
 http://video.detik.com/trans7/smil:trans7.smil/chunklist_w1925750281_b384000_sleng.m3u8
 #https://livetvhooq.akamaized.net:443/659beb5e22754dcb90ffd25247be6627/ap-southeast-1/5493668622001/profile_2/chunklist.m3u8?hdnts=st=1573597561~exp=9007200828338552~acl=/659beb5e22754dcb90ffd25247be6627/*/profile_2/chunklist.m3u8*~hmac=36e36a66dc72a44d109f8e5036284cc3f32f77eee042f8475362acd67ff40834
 #https://delivery.macan.live/stream/id_trans7/index.m3u8?token=gratisan
-#https://liveanevia.mncnow.id/live/eds/Trans7/sa_hls/Trans7.m3u8
+#https://anevia115.mncnow.id/live/eds/Trans7/sa_hls/Trans7.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvri_big1.png" group-title="LOKAL", TVRI
-https://liveanevia.mncnow.id/live/eds/TVRI/sa_hls/TVRI.m3u8
+https://anevia115.mncnow.id/live/eds/TVRI/sa_hls/TVRI.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvone_big1.png" group-title="LOKAL", TVONE
 https://livetvhooq.akamaized.net:443/205606ce940f479dafb9ba6d71d61139/ap-southeast-1/5493668622001/profile_2/chunklist.m3u8?hdnts=st=1573597436~exp=9007200828338427~acl=/205606ce940f479dafb9ba6d71d61139/*/profile_2/chunklist.m3u8*~hmac=4ee84b00deb7c571a099059b60b98fea70033a603996d9091fe00244acd56f79
 #https://delivery.macan.live/stream/id_jtv/index.m3u8?token=gratisan
-#https://liveanevia.mncnow.id/live/eds/TVOne/sa_hls/TVOne.m3u8
+#https://anevia115.mncnow.id/live/eds/TVOne/sa_hls/TVOne.m3u8
 
 
 #KNOWLEDGE
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/fadhilspooky/indiahome/master/assets/images/channels/logo_animalplanet.png" group-title="KNOWLEDGE", Animal Planet
-https://liveanevia.mncnow.id/live/eds/AnimalPlanet/sa_hls/AnimalPlanet.m3u8
+https://anevia115.mncnow.id/live/eds/AnimalPlanet/sa_hls/AnimalPlanet.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/fadhilspooky/indiahome/master/assets/images/channels/logo_bbcearth.png" group-title="KNOWLEDGE", BBC Earth
-https://liveanevia.mncnow.id/live/eds/BBCEarth/sa_hls/BBCEarth.m3u8
+https://anevia115.mncnow.id/live/eds/BBCEarth/sa_hls/BBCEarth.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/fadhilspooky/indiahome/master/assets/images/channels/logo_besmart.png" group-title="KNOWLEDGE", BeSmart
-https://liveanevia.mncnow.id/live/eds/BeSmart/sa_hls/BeSmart.m3u8
+https://anevia115.mncnow.id/live/eds/BeSmart/sa_hls/BeSmart.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_cgtndocumentary_big1.png" group-title="KNOWLEDGE", CGTN
 http://210.210.155.35/qwr9ew/s/s20/index.m3u8
@@ -132,19 +130,19 @@ http://210.210.155.35/qwr9ew/s/s20/index.m3u8
 #https://delivery.macan.live/stream/id_discoveryasia/index.m3u8?token=ZCjg784G
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_discovery_big.png" group-title="KNOWLEDGE", Discovery Channel
-https://liveanevia.mncnow.id/live/eds/Discovery/sa_hls/Discovery.m3u8
+https://anevia115.mncnow.id/live/eds/Discovery/sa_hls/Discovery.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_history_big.png" group-title="KNOWLEDGE", History Channel
-https://liveanevia.mncnow.id/live/eds/History/sa_hls/History.m3u8
+https://anevia115.mncnow.id/live/eds/History/sa_hls/History.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_natgeo_big.png" group-title="KNOWLEDGE", National Geographic
-https://liveanevia.mncnow.id/live/eds/NatGeoChannel/sa_hls/NatGeoChannel.m3u8
+https://anevia115.mncnow.id/live/eds/NatGeoChannel/sa_hls/NatGeoChannel.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_natgeopeople_big.png" group-title="KNOWLEDGE", National Geo People
-https://liveanevia.mncnow.id/live/eds/NatGeoPeople/sa_hls/NatGeoPeople.m3u8
+https://anevia115.mncnow.id/live/eds/NatGeoPeople/sa_hls/NatGeoPeople.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_natgeowild_big.png" group-title="KNOWLEDGE", National Geographic Wild
-https://liveanevia.mncnow.id/live/eds/NatGeoWild/sa_hls/NatGeoWild.m3u8
+https://anevia115.mncnow.id/live/eds/NatGeoWild/sa_hls/NatGeoWild.m3u8
 
 # tvg-logo="https://raw.githubusercontent.com/fadhilspooky/indiahome/master/assets/images/channels/logo_smithsonian.png" group-title="KNOWLEDGE", Smithsonian Channel
 #https://siomay.macan.live/stream/smithsonian/playlist.m3u8?
@@ -158,30 +156,30 @@ https://moiptvhls-i.akamaihd.net/hls/live/652318/secure/master.m3u8
 http://ms003.happytv.com.tw/live/F9YMztT5DcwWEr1f/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/fadhilspooky/indiahome/master/assets/images/channels/logo_babytv.png" group-title="KIDS", Baby TV
-https://liveanevia.mncnow.id/live/eds/BabyTV/sa_hls/BabyTV.m3u8
+https://anevia115.mncnow.id/live/eds/BabyTV/sa_hls/BabyTV.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_boomerang_big.png" group-title="KIDS", Boomerang
-https://liveanevia.mncnow.id/live/eds/Boomerang/sa_hls/Boomerang.m3u8
+https://anevia115.mncnow.id/live/eds/Boomerang/sa_hls/Boomerang.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_cartoonnetwork_big.png" group-title="KIDS", Cartoon Network
-https://liveanevia.mncnow.id/live/eds/CartoonNetwork/sa_hls/CartoonNetwork.m3u8
+https://anevia115.mncnow.id/live/eds/CartoonNetwork/sa_hls/CartoonNetwork.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/fadhilspooky/indiahome/master/assets/images/channels/logo_Cbeebies.png" group-title="KIDS", Cbeebies
-https://liveanevia.mncnow.id/live/eds/Cbeebies/sa_hls/Cbeebies.m3u8
+https://anevia115.mncnow.id/live/eds/Cbeebies/sa_hls/Cbeebies.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_davinci_big1.png" group-title="KIDS", Da Vinci
 http://213.174.8.7:11111/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/fadhilspooky/indiahome/master/assets/images/channels/logo_disney.png" group-title="KIDS", Disney Channel
-https://liveanevia.mncnow.id/live/eds/DisneyChannel/sa_hls/DisneyChannel.m3u8
+https://anevia115.mncnow.id/live/eds/DisneyChannel/sa_hls/DisneyChannel.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/fadhilspooky/indiahome/master/assets/images/channels/logo_disneyjr.png" group-title="KIDS", Disney Junior
-https://liveanevia.mncnow.id/live/eds/DisneyJunior/sa_hls/DisneyJunior.m3u8
+https://anevia115.mncnow.id/live/eds/DisneyJunior/sa_hls/DisneyJunior.m3u8
 #https://delivery.macan.live/stream/disneyjunior/index.m3u8?token=ZCjg784G
 #http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/fadhilspooky/indiahome/master/assets/images/channels/logo_disneyxd.png" group-title="KIDS", Disney XD
-https://liveanevia.mncnow.id/live/eds/DisneyXD/sa_hls/DisneyXD.m3u8
+https://anevia115.mncnow.id/live/eds/DisneyXD/sa_hls/DisneyXD.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_duck_big1.png" group-title="KIDS", Duck TV
 http://livecdnh3.tvanywhere.ae/hls/duck/06.m3u8
@@ -190,16 +188,16 @@ http://livecdnh3.tvanywhere.ae/hls/duck/06.m3u8
 https://dl.dropbox.com/s/b6fas6znw4nylec/Hore.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/fadhilspooky/indiahome/master/assets/images/channels/logo_kidstv.png" group-title="KIDS", Kids TV
-https://liveanevia.mncnow.id/live/eds/KidsChannel/sa_hls/KidsChannel.m3u8
+https://anevia115.mncnow.id/live/eds/KidsChannel/sa_hls/KidsChannel.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/fadhilspooky/indiahome/master/assets/images/channels/logo_miamomi.png" group-title="KIDS", Miamo Mi
-https://liveanevia.mncnow.id/live/eds/MiaoMi/sa_hls/MiaoMi.m3u8
+https://anevia115.mncnow.id/live/eds/MiaoMi/sa_hls/MiaoMi.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_nickelodeon_big.png" group-title="KIDS", Nickelodeon
-https://liveanevia.mncnow.id/live/eds/Nickelodeon/sa_hls/Nickelodeon.m3u8
+https://anevia115.mncnow.id/live/eds/Nickelodeon/sa_hls/Nickelodeon.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_nickjr_big.png" group-title="KIDS", Nick JR
-https://liveanevia.mncnow.id/live/eds/NickJr/sa_hls/NickJr.m3u8
+https://anevia115.mncnow.id/live/eds/NickJr/sa_hls/NickJr.m3u8
 
 # tvg-logo="https://raw.githubusercontent.com/fadhilspooky/indiahome/master/assets/images/channels/logo_nicktoons.png" group-title="KIDS", Nicktoons
 #http://213.252.252.17/live/eds/Nicktoons/HLS_encr/Nicktoons.m3u8
@@ -210,7 +208,7 @@ https://liveanevia.mncnow.id/live/eds/NickJr/sa_hls/NickJr.m3u8
 
 #LIFESTYLE
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_afc_big.png" group-title="LIFESTYLE", AFN
-https://liveanevia.mncnow.id/live/eds/AFC/sa_hls/AFC.m3u8
+https://anevia115.mncnow.id/live/eds/AFC/sa_hls/AFC.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/fadhilspooky/indiahome/master/assets/images/channels/logo_entertainment.png" group-title="LIFESTYLE", E! Entertainment
 https://livetvhooq.akamaized.net:443/37882cebae53494fbb9e86e68eae4673/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1573600290~exp=9007200828341281~acl=/37882cebae53494fbb9e86e68eae4673/*/profile_0/chunklist.m3u8*~hmac=30e5c1e07672f7c7de106b843093231ffae71271a99008779f59afb36a3eac58
@@ -222,32 +220,32 @@ http://fash1043.cloudycdn.services/slive/ftv_pg13_adaptive.smil/chunklist.m3u8
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:foodiee/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/fadhilspooky/indiahome/master/assets/images/channels/logo_foxlife.png" group-title="LIFESTYLE", FOX Life
-https://liveanevia.mncnow.id/live/eds/STARWorld/sa_hls/STARWorld.m3u8
+https://anevia115.mncnow.id/live/eds/STARWorld/sa_hls/STARWorld.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/fadhilspooky/indiahome/master/assets/images/channels/logo_hgtv.png" group-title="LIFESTYLE", HGTV
-https://liveanevia.mncnow.id/live/eds/HGTV/sa_hls/HGTV.m3u8
+https://anevia115.mncnow.id/live/eds/HGTV/sa_hls/HGTV.m3u8
 #https://delivery.macan.live/stream/hgtv/index.m3u8?token=ZCjg784G
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/fadhilspooky/indiahome/master/assets/images/channels/logo_home&living.png" group-title="LIFESTYLE", Home & Living
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:homelivinghd/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/fadhilspooky/indiahome/master/assets/images/channels/logo_lifestyle&fashion.png" group-title="LIFESTYLE", Lifestyle & Fashion
-https://liveanevia.mncnow.id/live/eds/LifeStyleFashion/sa_hls/LifeStyleFashion.m3u8
+https://anevia115.mncnow.id/live/eds/LifeStyleFashion/sa_hls/LifeStyleFashion.m3u8
+
+#EXTINF:-1 tvg-logo="KOSONG" group-title="LIFESTYLE", MNC Shop
+http://anevia115.mncnow.id/live/eds/MNCShop/sa_hls/MNCShop.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/fadhilspooky/indiahome/master/assets/images/channels/logo_outdoorc.png" group-title="LIFESTYLE", Outdoor Channel
 https://dl.dropbox.com/s/b0m53oaf0li7fv8/Outdoor.m3u8?dl=0
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/fadhilspooky/indiahome/master/assets/images/channels/logo_tlc.png" group-title="LIFESTYLE", TLC
-https://liveanevia.mncnow.id/live/eds/TLC/sa_hls/TLC.m3u8
+https://anevia115.mncnow.id/live/eds/TLC/sa_hls/TLC.m3u8
 #http://203.153.218.28:9981/stream/channelid/391618553?ticket=78F887BA5B832279E75370788BBE22D4FDD521CB&profile=pass
 
 
 #MUSIC
-#EXTINF:-1 tvg-logo="KOSONG" group-title="MUSIC", B Music
-https://livetvhooq.akamaized.net:443/94d7194614e148059bca126206f13321/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1573599727~exp=9007200828340718~acl=/94d7194614e148059bca126206f13321/*/profile_0/chunklist.m3u8*~hmac=4e62bad0407e078c42fceb6a3757dc833dd2d0c3b7394304a1c078d093cd2097
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/fadhilspooky/indiahome/master/assets/images/channels/logo_channelv.png" group-title="MUSIC", Channel V
-https://liveanevia.mncnow.id/live/eds/ChannelV/sa_hls/ChannelV.m3u8
+https://anevia115.mncnow.id/live/eds/ChannelV/sa_hls/ChannelV.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/fadhilspooky/indiahome/master/assets/images/channels/logo_clubbingtv.png" group-title="MUSIC", Clubbing TV
 https://livetvhooq.akamaized.net:443/923e04bf28d6488e85831094a2cfc33d/eu-central-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1573597850~exp=9007200828338841~acl=/923e04bf28d6488e85831094a2cfc33d/*/profile_0/chunklist.m3u8*~hmac=3f8b35244cac9f49ce5491e590812bb8770317e3206bb1603f4a8aa41efe6ff2
@@ -269,7 +267,7 @@ https://www.livedoomovie.com/02_MTV_Live_HD_720p/chunklist.m3u8
 http://streaming.mas-mas.it:1935/live/myStream/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/fadhilspooky/indiahome/master/assets/images/channels/logo_musictv.png" group-title="MUSIC", Music TV
-https://liveanevia.mncnow.id/live/eds/MusicChannel/sa_hls/MusicChannel.m3u8
+https://anevia115.mncnow.id/live/eds/MusicChannel/sa_hls/MusicChannel.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_pramborstv_big1.png" group-title="MUSIC", PRAMBORS
 https://cdn-accedo-01.akamaized.net:443/Content/DASH/Live/channel(d38de229-8abc-4072-91d4-2c42935f7e3b)/manifest.mpd
@@ -283,13 +281,13 @@ http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8
 
 #ENTERTAINMENT
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_animax_big.png" group-title="ENTERTAINMENT", ANIMAX
-https://liveanevia.mncnow.id/live/eds/Animax/sa_hls/Animax.m3u8
+https://anevia115.mncnow.id/live/eds/Animax/sa_hls/Animax.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_aniplus_big1.png" group-title="ENTERTAINMENT", ANIPLUS
 http://rr1.dens.tv/h/h02/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BStW7wi.png" group-title="ENTERTAINMENT", Ariang
-https://liveanevia.mncnow.id/live/eds/Arirang/sa_hls/Arirang.m3u8
+https://anevia115.mncnow.id/live/eds/Arirang/sa_hls/Arirang.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_blueant_big.png" group-title="ENTERTAINMENT", BLUE ANT
 http://210.210.155.35:80/session/676c25ba-724e-11e9-834b-8ac28bf32f5a/dr9445/h/h16/02.m3u8
@@ -304,25 +302,26 @@ http://45.126.83.51/qwr9ew/s/s19/01.m3u8
 https://dl.dropbox.com/s/2f1e4vq02tpu2pc/Citra%20drama.m3u8?dl=0
 
 # tvg-logo="https://raw.githubusercontent.com/fadhilspooky/indiahome/master/assets/images/channels/" group-title="ENTERTAINMENT", DIVA
+#https://anevia115.mncnow.id/live/eds/DIVA/sa_hls/DIVA.m3u8
 #https://delivery.macan.live/stream/diva/index.m3u8?token=ZCjg784G
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_crimeinvestigation_big.png" group-title="ENTERTAINMENT", Crime Investigation
-https://liveanevia.mncnow.id/live/eds/CrimeInvestigation/sa_hls/CrimeInvestigation.m3u8
+https://anevia115.mncnow.id/live/eds/CrimeInvestigation/sa_hls/CrimeInvestigation.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/fadhilspooky/indiahome/master/assets/images/channels/logo_fmn.png" group-title="ENTERTAINMENT", FMN
-https://liveanevia.mncnow.id/live/eds/FMN/sa_hls/FMN.m3u8
+https://anevia115.mncnow.id/live/eds/FMN/sa_hls/FMN.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_hiindo_big1.png" group-title="ENTERTAINMENT", Hi Indo!
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:hich/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/fadhilspooky/indiahome/master/assets/images/channels/logo_infotainment.png" group-title="ENTERTAINMENT", Infotainment
-https://liveanevia.mncnow.id/live/eds/MNCInfotainment/sa_hls/MNCInfotainment.m3u8
+https://anevia115.mncnow.id/live/eds/MNCInfotainment/sa_hls/MNCInfotainment.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_lifetime_big.png" group-title="ENTERTAINMENT", Lifetime
-https://liveanevia.mncnow.id/live/eds/Lifetime/sa_hls/Lifetime.m3u8
+https://anevia115.mncnow.id/live/eds/Lifetime/sa_hls/Lifetime.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_kix_big.png" group-title="ENTERTAINMENT", KIX
-https://liveanevia.mncnow.id/live/eds/KIX/sa_hls/KIX.m3u8
+https://anevia115.mncnow.id/live/eds/KIX/sa_hls/KIX.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/fadhilspooky/indiahome/master/assets/images/channels/logo_kdrama.png" group-title="ENTERTAINMENT", K Drama
 http://210.210.155.35/session/971493a0-0192-11ea-b1fb-b82a72d63267/qwr9ew/s/s42/index.m3u8
@@ -331,13 +330,16 @@ http://210.210.155.35/session/971493a0-0192-11ea-b1fb-b82a72d63267/qwr9ew/s/s42/
 http://210.210.155.35/uq2663/h/h08/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/fadhilspooky/indiahome/master/assets/images/channels/logo_mncchannel.png" group-title="ENTERTAINMENT", MNC Channel
-https://liveanevia.mncnow.id/live/eds/MNCChannel/sa_hls/MNCChannel.m3u8
+https://anevia115.mncnow.id/live/eds/MNCChannel/sa_hls/MNCChannel.m3u8
+
+#EXTINF:-1 tvg-logo="KOSONG" group-title="ENTERTAINMENT", Entertainment
+http://anevia115.mncnow.id/live/eds/MNCEntertainment/sa_hls/MNCEntertainment.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_nhkworld_big.png" group-title="ENTERTAINMENT", NHK World Japan
-https://liveanevia.mncnow.id/live/eds/NHKWorldTV/sa_hls/NHKWorldTV.m3u8
+https://anevia115.mncnow.id/live/eds/NHKWorldTV/sa_hls/NHKWorldTV.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/fadhilspooky/indiahome/master/assets/images/channels/logo_nhkwp.png" group-title="ENTERTAINMENT", NHK World Premium
-https://liveanevia.mncnow.id/live/eds/NHKWorldPremium/sa_hls/NHKWorldPremium.m3u8
+https://anevia115.mncnow.id/live/eds/NHKWorldPremium/sa_hls/NHKWorldPremium.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_sgem_big1.png" group-title="ENTERTAINMENT", S-GEM
 https://delivery.macan.live/stream/id_gem/index.m3u8?token=ZCjg784G
@@ -348,42 +350,43 @@ https://delivery.macan.live/stream/sonyone/index.m3u8?token=ZCjg784G
 #http://210.210.155.35/session/c30d8c14-f1bc-11e8-89c0-aa35b2893d02/uq2663/h/h143/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvn_big.png" group-title="ENTERTAINMENT", TVN
-https://liveanevia.mncnow.id/live/eds/tvN/sa_hls/tvN.m3u8
+https://anevia115.mncnow.id/live/eds/tvN/sa_hls/tvN.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvnmoviews_small.png" group-title="ENTERTAINMENT", TVN Movies
-https://liveanevia.mncnow.id/live/eds/tvNMovies/sa_hls/tvNMovies.m3u8
+https://anevia115.mncnow.id/live/eds/tvNMovies/sa_hls/tvNMovies.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/fadhilspooky/indiahome/master/assets/images/channels/logo_visionprime.png" group-title="ENTERTAINMENT", Vision Prime
-https://liveanevia.mncnow.id/live/eds/VisionPrime/sa_hls/VisionPrime.m3u8
+https://anevia115.mncnow.id/live/eds/VisionPrime/sa_hls/VisionPrime.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_warner_big.png" group-title="ENTERTAINMENT", Warner TV
-https://liveanevia.mncnow.id/live/eds/WarnerTV/sa_hls/WarnerTV.m3u8
+https://anevia115.mncnow.id/live/eds/WarnerTV/sa_hls/WarnerTV.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_wakuwaku_big.png" group-title="ENTERTAINMENT", WakuWaku Japan
-https://liveanevia.mncnow.id/live/eds/WakuWakuJapan/sa_hls/WakuWakuJapan.m3u8
+https://anevia115.mncnow.id/live/eds/WakuWakuJapan/sa_hls/WakuWakuJapan.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/fadhilspooky/indiahome/master/assets/images/channels/logo_zeetv.png" group-title="ENTERTAINMENT", Zee TV
-https://liveanevia.mncnow.id/live/eds/ZeeTV/sa_hls/ZeeTV.m3u8
+https://anevia115.mncnow.id/live/eds/ZeeTV/sa_hls/ZeeTV.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/fadhilspooky/indiahome/master/assets/images/channels/logo_zeecinema.png" group-title="ENTERTAINMENT", Zee Cinema
-https://liveanevia.mncnow.id/live/eds/ZeeCinema/sa_hls/ZeeCinema.m3u8
+https://anevia115.mncnow.id/live/eds/ZeeCinema/sa_hls/ZeeCinema.m3u8
 
 
 #TV SERIES
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_axn_big.png" group-title="TV SERIES", AXN
 http://210.210.155.66/h/h141/02.m3u8
+#https://anevia115.mncnow.id/live/eds/AXN/sa_hls/AXN.m3u8
 #https://delivery.macan.live/stream/id_axn/index.m3u8?token=ZCjg784G
 #https://siomay.macan.live/stream/axn/playlist.m3u8?
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/fadhilspooky/indiahome/master/assets/images/channels/logo_fox.png" group-title="TV SERIES", FOX
-https://liveanevia.mncnow.id/live/eds/FoxChannel/sa_hls/FoxChannel.m3u8
+https://anevia115.mncnow.id/live/eds/FoxChannel/sa_hls/FoxChannel.m3u8
 #https://delivery.macan.live/stream/id_fox/index.m3u8?token=ZCjg784G
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/fadhilspooky/indiahome/master/assets/images/channels/logo_foxcrime.png" group-title="TV SERIES", FOX Crime
-https://liveanevia.mncnow.id/live/eds/FoxCrime/sa_hls/FoxCrime.m3u8
+https://anevia115.mncnow.id/live/eds/FoxCrime/sa_hls/FoxCrime.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/fadhilspooky/indiahome/master/assets/images/channels/logo_fx.png" group-title="TV SERIES", FX
-https://liveanevia.mncnow.id/live/eds/FX/sa_hls/FX.m3u8
+https://anevia115.mncnow.id/live/eds/FX/sa_hls/FX.m3u8
 #https://delivery.macan.live/stream/id_fx/index.m3u8?token=ZCjg784G
 #https://siomay.macan.live/stream/fx/playlist.m3u8?
 
@@ -395,7 +398,7 @@ http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:jgoch/chunklist_b228800
 http://202.93.133.3:1935/svr2/tic.com.stream_720p/chunklist_w752720676.m3u8?fluxustv.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_thrill_big.png" group-title="TV SERIES", Thrill
-https://liveanevia.mncnow.id/live/eds/Thrill/sa_hls/Thrill.m3u8
+https://anevia115.mncnow.id/live/eds/Thrill/sa_hls/Thrill.m3u8
 
 
 #MOVIE
@@ -403,62 +406,65 @@ https://liveanevia.mncnow.id/live/eds/Thrill/sa_hls/Thrill.m3u8
 # rtp://@239.1.1.226:9332
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_celestialmovie_big.png" group-title="MOVIE", Celestial Movies
-https://liveanevia.mncnow.id/live/eds/CelestialMovie/sa_hls/CelestialMovie.m3u8
-#https://anevia115.mncnow.id:443/live/eds/CelestialMovie/sa_hls/CelestialMovie.m3u8
+https://anevia115.mncnow.id/live/eds/CelestialMovie/sa_hls/CelestialMovie.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/fadhilspooky/indiahome/master/assets/images/channels/logo_ccm.png" group-title="MOVIE", Celestial Classic Movies
-https://liveanevia.mncnow.id/live/eds/CelestialClassic/sa_hls/CelestialClassic.m3u8
+https://anevia115.mncnow.id/live/eds/CelestialClassic/sa_hls/CelestialClassic.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/fadhilspooky/indiahome/master/assets/images/channels/logo_cinemax.png" group-title="MOVIE", CINEMAX
-https://liveanevia.mncnow.id/live/eds/CinemaxHD/sa_hls/CinemaxHD.m3u8
+https://anevia115.mncnow.id/live/eds/CinemaxHD/sa_hls/CinemaxHD.m3u8
 #https://delivery.macan.live/stream/cinemax/index.m3u8?token=ZCjg784G
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_cinemaworld_big.png" group-title="MOVIE", Cinema World
-https://liveanevia.mncnow.id/live/eds/CinemaWorld/sa_hls/CinemaWorld.m3u8
+https://anevia115.mncnow.id/live/eds/CinemaWorld/sa_hls/CinemaWorld.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/fadhilspooky/indiahome/master/assets/images/channels/logo_foxm.png" group-title="MOVIE", FOX Movies
 http://203.153.218.28:9981/stream/channelid/756717990?ticket=B63A8893B7D332F2F7ACFD3C14E761032035F66E&amp;profile=pass
+#https://anevia115.mncnow.id/live/eds/FOXMoviesPremium/sa_hls/FOXMoviesPremium.m3u8
 #https://delivery.macan.live/stream/id_foxmoviespremium/index.m3u8?token=ZCjg784G
 #https://siomay.macan.live/stream/foxmoviespremium/playlist.m3u8?
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/fadhilspooky/indiahome/master/assets/images/channels/logo_foxam.png" group-title="MOVIE", FOX Action Movies
-https://delivery.macan.live/stream/id_foxactionmovies/index.m3u8?token=ZCjg784G
+#https://anevia115.mncnow.id/live/eds/FoxActionMovies/sa_hls/FoxActionMovies.m3u8
+#https://delivery.macan.live/stream/id_foxactionmovies/index.m3u8?token=ZCjg784G
 #https://siomay.macan.live/stream/foxactionmovies/playlist.m3u8?
 #http://idxcode.streamid.tv:25251/live/stream/ID/44.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/fadhilspooky/indiahome/master/assets/images/channels/logo_foxfm.png" group-title="MOVIE", FOX Family Movies
 http://203.153.218.28:9981/stream/channelid/1949182550?ticket=C4FE458C6B9C4686BA0966E59174C0D6805DBB39&profile=pass
+#https://anevia115.mncnow.id/live/eds/FoxFamilyMovies/sa_hls/FoxFamilyMovies.m3u8
 #https://delivery.macan.live/stream/id_foxfamilymovies/index.m3u8?token=ZCjg784G
 #https://siomay.macan.live/stream/foxfamilymovies/playlist.m3u8?
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/fadhilspooky/indiahome/master/assets/images/channels/logo_hbo.png" group-title="MOVIE", HBO
 http://cableserver1.cableguy.pro:82/live?cId=491&uId=2255&deviceUser=roggiemkd&devicePass=k5rM0tOjM5Lh9B3s
+#https://anevia115.mncnow.id/live/eds/HBO/sa_hls/HBO.m3u8
 #https://delivery.macan.live/stream/hbo/index.m3u8?token=ZCjg784G
 #https://siomay.macan.live/stream/hbo/playlist.m3u8?
 #http://idxcode.streamid.tv:25251/live/stream/ID/51.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/fadhilspooky/indiahome/master/assets/images/channels/logo_hboh.png" group-title="MOVIE", HBO Hits
-https://liveanevia.mncnow.id/live/eds/HBOHits/sa_hls/HBOHits.m3u8
+https://anevia115.mncnow.id/live/eds/HBOHits/sa_hls/HBOHits.m3u8
 #https://delivery.macan.live/stream/hbo_hits/index.m3u8?token=ZCjg784G
 #https://siomay.macan.live/stream/hbo_hits/playlist.m3u8?
 #https://anevia115.mncnow.id/live/eds/HBOHits/sa_hls/HBOHits.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/fadhilspooky/indiahome/master/assets/images/channels/logo_hbof.png" group-title="MOVIE", HBO Family
 http://203.153.218.28:9981/stream/channelid/1316004766?ticket=5F57E6E5C9291700E8B75D86F760C75666701FBB&profile=pass
+#https://anevia115.mncnow.id/live/eds/HBOFamily/sa_hls/HBOFamily.m3u8
 #https://delivery.macan.live/stream/hbo_family/index.m3u8?token=ZCjg784G
 #https://siomay.macan.live/stream/hbo_family/playlist.m3u8?
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/fadhilspooky/indiahome/master/assets/images/channels/logo_hbos.png" group-title="MOVIE", HBO Signature
-https://liveanevia.mncnow.id/live/eds/HBOSignature/sa_hls/HBOSignature.m3u8
+https://anevia115.mncnow.id/live/eds/HBOSignature/sa_hls/HBOSignature.m3u8
 #https://delivery.macan.live/stream/hbo_signature/index.m3u8?token=ZCjg784G
 #https://siomay.macan.live/stream/hbo_signature/playlist.m3u8?
-#https://anevia115.mncnow.id/live/eds/HBOSignature/sa_hls/HBOSignature.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/fadhilspooky/indiahome/master/assets/images/channels/logo_hits.png" group-title="MOVIE", Hits
-https://liveanevia.mncnow.id/live/eds/HITS/sa_hls/HITS.m3u8
+https://anevia115.mncnow.id/live/eds/HITS/sa_hls/HITS.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/fadhilspooky/indiahome/master/assets/images/channels/logo_hitsm.png" group-title="MOVIE", Hits Movies
-https://liveanevia.mncnow.id/live/eds/HitsMovies/sa_hls/HitsMovies.m3u8
+https://anevia115.mncnow.id/live/eds/HitsMovies/sa_hls/HitsMovies.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/fadhilspooky/indiahome/master/assets/images/channels/logo_mycinema.png" group-title="MOVIE", My Cinema
 http://210.210.155.35/x6bnqe/s/s31/index2.m3u8
@@ -467,22 +473,20 @@ http://210.210.155.35/x6bnqe/s/s31/index2.m3u8
 #https://delivery.macan.live/stream/redhbo/index.m3u8?token=ZCjg784G
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/fadhilspooky/indiahome/master/assets/images/channels/logo_scm.png" group-title="MOVIE", Star Chinese Movies
-https://liveanevia.mncnow.id/live/eds/SCM/sa_hls/SCM.m3u8
+https://anevia115.mncnow.id/live/eds/SCM/sa_hls/SCM.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/fadhilspooky/indiahome/master/assets/images/channels/logo_scml.png" group-title="MOVIE", Star Chinese Movies Legend
-https://liveanevia.mncnow.id/live/eds/SCMlegend/sa_hls/SCMlegend.m3u8
+https://anevia115.mncnow.id/live/eds/SCMlegend/sa_hls/SCMlegend.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_zbioskop_big1.png" group-title="MOVIE", Zee Bioskop
-https://liveanevia.mncnow.id/live/eds/MovieChannel/sa_hls/MovieChannel.m3u8
-#https://anevia115.mncnow.id:443/live/eds/MovieChannel/sa_hls/MovieChannel.m3u8
-
+https://anevia115.mncnow.id/live/eds/MovieChannel/sa_hls/MovieChannel.m3u8
  
 #SPORT
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/fadhilspooky/indiahome/master/assets/images/channels/logo_mncsports.png" group-title="SPORT", MNC Sport
-https://liveanevia.mncnow.id/live/eds/MNCSports/sa_hls/MNCSports.m3u8
+https://anevia115.mncnow.id/live/eds/MNCSports/sa_hls/MNCSports.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/fadhilspooky/indiahome/master/assets/images/channels/logo_mncsports2.png" group-title="SPORT", MNC Sport 2
-https://liveanevia.mncnow.id/live/eds/SoccerChannel/sa_hls/SoccerChannel.m3u8
+https://anevia115.mncnow.id/live/eds/SoccerChannel/sa_hls/SoccerChannel.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_useesport_big.png" group-title="SPORT", Usee Sport
 https://delivery.macan.live/stream/macan_sport_3/index.m3u8?token=ZCjg784G
@@ -551,20 +555,16 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch319)/02.m3u8
 #https://delivery.macan.live/stream/macan_sport_8/index.m3u8?token=ZCjg784G
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/fadhilspooky/indiahome/master/assets/images/channels/logo_fightsports.png" group-title="SPORT", Fight Sport
-https://liveanevia.mncnow.id/live/eds/FightSports/sa_hls/FightSports.m3u8
-#https://anevia115.mncnow.id/live/eds/FightSports/sa_hls/FightSports.m3u8
+https://anevia115.mncnow.id/live/eds/FightSports/sa_hls/FightSports.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_foxsports1_big.png" group-title="SPORT", FOX Sport 1
-https://liveanevia.mncnow.id/live/eds/FOXSports/sa_hls/FOXSports.m3u8
-#https://anevia115.mncnow.id/live/eds/FOXSports/sa_hls/FOXSports.m3u8
+https://anevia115.mncnow.id/live/eds/FOXSports/sa_hls/FOXSports.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_foxsports2_big.png" group-title="SPORT", FOX Sports 2
-https://liveanevia.mncnow.id/live/eds/FoxSports2/sa_hls/FoxSports2.m3u8
-#https://anevia115.mncnow.id/live/eds/FoxSports2/sa_hls/FoxSports2.m3u8
+https://anevia115.mncnow.id/live/eds/FoxSports2/sa_hls/FoxSports2.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_foxsports3_big.png" group-title="SPORT", FOX Sports 3
-https://liveanevia.mncnow.id/live/eds/FoxSports3/sa_hls/FoxSports3.m3u8
-#https://anevia115.mncnow.id/live/eds/FoxSports3/sa_hls/FoxSports3.m3u8
+https://anevia115.mncnow.id/live/eds/FoxSports3/sa_hls/FoxSports3.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_golf_big1.png" group-title="SPORT", GOLF Channel
 https://www.livedoomovie.com/02_golfhd_720p/chunklist.m3u8
@@ -602,31 +602,31 @@ http://210.210.155.35/session/69e800f6-97c0-11e9-888f-b82a72d63267/qwr9ew/s/s107
 
 #NEWS
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/fadhilspooky/indiahome/master/assets/images/channels/logo_abc.png" group-title="NEWS", ABC Australia
-https://liveanevia.mncnow.id/live/eds/AustraliaPlus/sa_hls/AustraliaPlus.m3u8
+https://anevia115.mncnow.id/live/eds/AustraliaPlus/sa_hls/AustraliaPlus.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_aljazeera_big1.png" group-title="NEWS", Al-jazeera
 http://45.126.83.51/qwr9ew/s/s17/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/fadhilspooky/indiahome/master/assets/images/channels/logo_bbcwn.png" group-title="NEWS", BBC World News
-https://liveanevia.mncnow.id/live/eds/BBCWorldNews/sa_hls/BBCWorldNews.m3u8
+https://anevia115.mncnow.id/live/eds/BBCWorldNews/sa_hls/BBCWorldNews.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_beritasatu_big1.png" group-title="NEWS", BERITA SATU
-https://liveanevia.mncnow.id/live/eds/BeritaSatu/sa_hls/BeritaSatu.m3u8
+https://anevia115.mncnow.id/live/eds/BeritaSatu/sa_hls/BeritaSatu.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/fadhilspooky/indiahome/master/assets/images/channels/logo_beritasatuw.png" group-title="NEWS", BERITA SATU WORLD
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsworld/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_bloomberg_big1.png" group-title="NEWS", Bloomberg
-https://liveanevia.mncnow.id/live/eds/Bloomberg/sa_hls/Bloomberg.m3u8
+https://anevia115.mncnow.id/live/eds/Bloomberg/sa_hls/Bloomberg.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_newsasia_big.png" group-title="NEWS", CNA
-https://liveanevia.mncnow.id/live/eds/ChannelNewsAsia/sa_hls/ChannelNewsAsia.m3u8
+https://anevia115.mncnow.id/live/eds/ChannelNewsAsia/sa_hls/ChannelNewsAsia.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_cnnindonesia_big1.png" group-title="NEWS", CNN Indonesia
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_cnninternational_big.png" group-title="NEWS", CNN International
-https://liveanevia.mncnow.id/live/eds/CNNInternational/sa_hls/CNNInternational.m3u8
+https://anevia115.mncnow.id/live/eds/CNNInternational/sa_hls/CNNInternational.m3u8
 #https://delivery.macan.live/stream/cnninternational/index.m3u8?token=ZCjg784G
 #http://203.153.218.28:9981/stream/channelid/1328589592?ticket=3A77BAE803C77F261879F637E4B795AB373D238F&profile=pass
 
@@ -634,37 +634,38 @@ https://liveanevia.mncnow.id/live/eds/CNNInternational/sa_hls/CNNInternational.m
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/fadhilspooky/indiahome/master/assets/images/channels/logo_cnbcint.png" group-title="NEWS", CNBC International
-https://liveanevia.mncnow.id/live/eds/CNBC/sa_hls/CNBC.m3u8
+https://anevia115.mncnow.id/live/eds/CNBC/sa_hls/CNBC.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/fadhilspooky/indiahome/master/assets/images/channels/logo_cbs.png" group-title="NEWS", CBS
 http://161.0.157.50/PLTV/88888888/224/3221227041/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_dwtv_big.png" group-title="NEWS", DW TV
-https://liveanevia.mncnow.id/live/eds/DW/sa_hls/DW.m3u8
+https://anevia115.mncnow.id/live/eds/DW/sa_hls/DW.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_euronews_big1.png" group-title="NEWS", EURO News
-https://liveanevia.mncnow.id/live/eds/EuroNews/sa_hls/EuroNews.m3u8
+https://anevia115.mncnow.id/live/eds/EuroNews/sa_hls/EuroNews.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/fadhilspooky/indiahome/master/assets/images/channels/logo_foxnews.png" group-title="NEWS", FOX News
-https://liveanevia.mncnow.id/live/eds/FoxNews/sa_hls/FoxNews.m3u8
+https://anevia115.mncnow.id/live/eds/FoxNews/sa_hls/FoxNews.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_france24_big.png" group-title="NEWS", France 24
-https://liveanevia.mncnow.id/live/eds/France24/sa_hls/France24.m3u8
+https://anevia115.mncnow.id/live/eds/France24/sa_hls/France24.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_idx_big.png" group-title="NEWS", IDX Channel
-https://liveanevia.mncnow.id/live/eds/IDX/sa_hls/IDX.m3u8
+https://anevia115.mncnow.id/live/eds/IDX/sa_hls/IDX.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/fadhilspooky/indiahome/master/assets/images/channels/logo_jakartagn.png" group-title="NEWS", Jakarta Globe News
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsenglish/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/fadhilspooky/indiahome/master/assets/images/channels/logo_mncnews.png" group-title="NEWS", MNC News
-https://liveanevia.mncnow.id/live/eds/MNCNews/sa_hls/MNCNews.m3u8
+https://anevia115.mncnow.id/live/eds/MNCNews/sa_hls/MNCNews.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/fadhilspooky/indiahome/master/assets/images/channels/logo_rtenglish.png" group-title="NEWS", RT English
-https://liveanevia.mncnow.id/live/eds/RTEnglish/sa_hls/RTEnglish.m3u8
+https://anevia115.mncnow.id/live/eds/RTEnglish/sa_hls/RTEnglish.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/fadhilspooky/indiahome/master/assets/images/channels/logo_skynews.png" group-title="NEWS", Sky News
 http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/06.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/fadhilspooky/indiahome/master/assets/images/channels/logo_trtworld.png" group-title="NEWS", TRT World
-https://liveanevia.mncnow.id/live/eds/TRTWorld/sa_hls/TRTWorld.m3u8
+https://anevia115.mncnow.id/live/eds/TRTWorld/sa_hls/TRTWorld.m3u8
+
