@@ -97,8 +97,7 @@ https://delivery.macan.live/stream/id_transtv/index.m3u8?token=gratisan
 #https://anevia114.mncnow.id:443/live/eds/TransTV/sa_hls/TransTV.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_trans7_big1.png" group-title="LOKAL", TRANS 7
-https://raw.githubusercontent.com/fadhilspooky/indiahome/master/assets/m3u/trans7.m3u8
-#https://livetvhooq.akamaized.net:443/659beb5e22754dcb90ffd25247be6627/ap-southeast-1/5493668622001/profile_2/chunklist.m3u8?hdnts=st=1573597561~exp=9007200828338552~acl=/659beb5e22754dcb90ffd25247be6627/*/profile_2/chunklist.m3u8*~hmac=36e36a66dc72a44d109f8e5036284cc3f32f77eee042f8475362acd67ff40834
+https://livetvhooq.akamaized.net:443/659beb5e22754dcb90ffd25247be6627/ap-southeast-1/5493668622001/profile_2/chunklist.m3u8?hdnts=st=1573597561~exp=9007200828338552~acl=/659beb5e22754dcb90ffd25247be6627/*/profile_2/chunklist.m3u8*~hmac=36e36a66dc72a44d109f8e5036284cc3f32f77eee042f8475362acd67ff40834
 #https://delivery.macan.live/stream/id_trans7/index.m3u8?token=gratisan
 #https://liveanevia.mncnow.id/live/eds/Trans7/sa_hls/Trans7.m3u8
 
@@ -239,6 +238,9 @@ https://liveanevia.mncnow.id/live/eds/TLC/sa_hls/TLC.m3u8
 
 
 #MUSIC
+#EXTINF:-1 tvg-logo="KOSONG" group-title="MUSIC", B Music
+https://livetvhooq.akamaized.net:443/94d7194614e148059bca126206f13321/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1573599727~exp=9007200828340718~acl=/94d7194614e148059bca126206f13321/*/profile_0/chunklist.m3u8*~hmac=4e62bad0407e078c42fceb6a3757dc833dd2d0c3b7394304a1c078d093cd2097
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/fadhilspooky/indiahome/master/assets/images/channels/logo_channelv.png" group-title="MUSIC", Channel V
 https://liveanevia.mncnow.id/live/eds/ChannelV/sa_hls/ChannelV.m3u8
 
