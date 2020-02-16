@@ -437,10 +437,10 @@ http://203.153.218.28:9981/stream/channelid/1949182550?ticket=C4FE458C6B9C4686BA
 #https://delivery.macan.live/stream/id_foxfamilymovies/index.m3u8?token=MfxrKeJ8
 #https://siomay.macan.live/stream/foxfamilymovies/playlist.m3u8?
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/fadhilspooky/indiahome/master/assets/images/channels/logo_hbo.png" group-title="MOVIE", HBO
-http://cableserver1.cableguy.pro:82/live?cId=491&uId=2255&deviceUser=roggiemkd&devicePass=k5rM0tOjM5Lh9B3s
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/fadhilspooky/indiahome/master/assets/images/channels/logo_hbo.png group-title="MOVIE", HBO
+https://delivery.macan.live/stream/hbo/index.m3u8?token=MfxrKeJ8
+#http://cableserver1.cableguy.pro:82/live?cId=491&uId=2255&deviceUser=roggiemkd&devicePass=k5rM0tOjM5Lh9B3s
 #https://anevia115.mncnow.id/live/eds/HBO/sa_hls/HBO.m3u8
-#https://delivery.macan.live/stream/hbo/index.m3u8?token=MfxrKeJ8
 #https://siomay.macan.live/stream/hbo/playlist.m3u8?
 #http://idxcode.streamid.tv:25251/live/stream/ID/51.m3u8
 
