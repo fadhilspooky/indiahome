@@ -112,9 +112,6 @@ https://anevia115.mncnow.id/live/eds/TVOne/sa_hls/TVOne.m3u8
 #https://delivery.macan.live/stream/id_jtv/index.m3u8?token=8zOOHzs7&v=20200202OHzs7&v=20200202
 #https://livetvhooq.akamaized.net:443/205606ce940f479dafb9ba6d71d61139/ap-southeast-1/5493668622001/profile_2/chunklist.m3u8?hdnts=st=1573597436~exp=9007200828338427~acl=/205606ce940f479dafb9ba6d71d61139/*/profile_2/chunklist.m3u8*~hmac=4ee84b00deb7c571a099059b60b98fea70033a603996d9091fe00244acd56f79
 
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvone_big1.png" group-title="LOKAL", TVONE 2
-https://delivery.macan.live/stream/id_tvone/index.m3u8?token=8zOOHzs7&v=20200202OHzs7&v=20200202
-
 
 #KNOWLEDGE
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/fadhilspooky/indiahome/master/assets/images/channels/logo_animalplanet.png" group-title="KNOWLEDGE", Animal Planet
@@ -138,7 +135,7 @@ https://anevia115.mncnow.id/live/eds/Discovery/sa_hls/Discovery.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_history_big.png" group-title="KNOWLEDGE", History Channel
 https://anevia115.mncnow.id/live/eds/History/sa_hls/History.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_history_big.png" group-title="KNOWLEDGE", Love Nature
+#EXTINF:-1 tvg-logo="KOSONG" group-title="KNOWLEDGE", Love Nature
 https://delivery.macan.live/stream/love_nature/index.m3u8?token=8zOOHzs7&v=20200202OHzs7&v=20200202
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_natgeo_big.png" group-title="KNOWLEDGE", National Geographic
@@ -216,7 +213,7 @@ https://anevia115.mncnow.id/live/eds/NickJr/sa_hls/NickJr.m3u8
 # tvg-logo="https://raw.githubusercontent.com/fadhilspooky/indiahome/master/assets/images/channels/logo_nicktoons.png" group-title="KIDS", Nicktoons
 #http://213.252.252.17/live/eds/Nicktoons/HLS_encr/Nicktoons.m3u8
 
-# tvg-logo="https://raw.githubusercontent.com/fadhilspooky/indiahome/master/assets/images/channels/logo_zoomoo.png" group-title="KIDS", ZooMoo
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/fadhilspooky/indiahome/master/assets/images/channels/logo_zoomoo.png" group-title="KIDS", ZooMoo
 https://delivery.macan.live/stream/zoomoo/index.m3u8?token=8zOOHzs7&v=20200202OHzs7&v=20200202
 
 
@@ -304,6 +301,21 @@ https://anevia115.mncnow.id/live/eds/Animax/sa_hls/Animax.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_aniplus_big1.png" group-title="ENTERTAINMENT", ANIPLUS
 http://rr1.dens.tv/h/h02/index.m3u8
+
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="KOSONG", Astro Awani
+https://delivery.macan.live/stream/astro_awani/index.m3u8?token=8zOOHzs7&v=20200202OHzs7&v=20200202
+
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="KOSONG", Astro Oasis
+https://delivery.macan.live/stream/astro_oasis/index.m3u8?token=8zOOHzs7&v=20200202OHzs7&v=20200202
+
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="KOSONG", Astro Prima
+https://delivery.macan.live/stream/astro_prima/index.m3u8?token=8zOOHzs7&v=20200202OHzs7&v=20200202
+
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="KOSONG", Astro Ria
+https://delivery.macan.live/stream/astro_ria/index.m3u8?token=8zOOHzs7&v=20200202OHzs7&v=20200202
+
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="KOSONG", Astro Warna
+https://delivery.macan.live/stream/astro_warna/index.m3u8?token=8zOOHzs7&v=20200202OHzs7&v=20200202
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BStW7wi.png" group-title="ENTERTAINMENT", Ariang
 https://anevia115.mncnow.id/live/eds/Arirang/sa_hls/Arirang.m3u8
@@ -499,10 +511,10 @@ https://anevia115.mncnow.id/live/eds/MovieChannel/sa_hls/MovieChannel.m3u8
 #https://delivery.macan.live/stream/zeebioskop/index.m3u8?token=8zOOHzs7&v=20200202OHzs7&v=20200202
  
 #SPORT
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/fadhilspooky/indiahome/master/assets/images/channels/logo_mncSPORT.png" group-title="SPORT", MNC Sport
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/fadhilspooky/indiahome/master/assets/images/channels/logo_mncsports.png" group-title="SPORT", MNC Sport
 https://anevia115.mncnow.id/live/eds/MNCSPORT/sa_hls/MNCSPORT.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/fadhilspooky/indiahome/master/assets/images/channels/logo_mncSPORT2.png" group-title="SPORT", MNC Sport 2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/fadhilspooky/indiahome/master/assets/images/channels/logo_mncsports2.png" group-title="SPORT", MNC Sport 2
 https://anevia115.mncnow.id/live/eds/SoccerChannel/sa_hls/SoccerChannel.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_useesport_big.png" group-title="SPORT", Usee Sport
@@ -512,16 +524,16 @@ https://delivery.macan.live/stream/macan_sport_3/index.m3u8?token=8zOOHzs7&v=202
 https://delivery.macan.live/stream/macan_sport_4/index.m3u8?token=8zOOHzs7&v=20200202OHzs7&v=20200202
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/fadhilspooky/indiahome/master/assets/images/channels/logo_astroarena.png" group-title="SPORT", Astro Arena
-#https://delivery.macan.live/stream/macan_sport_9/index.m3u8?token=8zOOHzs7&v=20200202OHzs7&v=20200202
+https://delivery.macan.live/stream/macan_sport_9/index.m3u8?token=8zOOHzs7&v=20200202OHzs7&v=20200202
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/fadhilspooky/indiahome/master/assets/images/channels/logo_astrocricket.png" group-title="SPORT", Astro Cricket
-#https://delivery.macan.live/stream/macan_sport_14/index.m3u8?token=8zOOHzs7&v=20200202OHzs7&v=20200202
+https://delivery.macan.live/stream/macan_sport_14/index.m3u8?token=8zOOHzs7&v=20200202OHzs7&v=20200202
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/fadhilspooky/indiahome/master/assets/images/channels/" group-title="SPORT", Astro Super  SPORT Live
-#https://delivery.macan.live/stream/macan_sport_17/index.m3u8?token=8zOOHzs7&v=20200202OHzs7&v=20200202
+https://delivery.macan.live/stream/macan_sport_17/index.m3u8?token=8zOOHzs7&v=20200202OHzs7&v=20200202
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/fadhilspooky/indiahome/master/assets/images/channels/" group-title="SPORT", Astro Super SPORT Live 2
-#https://delivery.macan.live/stream/macan_sport_18/index.m3u8?token=8zOOHzs7&v=20200202OHzs7&v=20200202
+https://delivery.macan.live/stream/macan_sport_18/index.m3u8?token=8zOOHzs7&v=20200202OHzs7&v=20200202
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/fadhilspooky/indiahome/master/assets/images/channels/logo_ass.png" group-title="SPORT", Astro Super Sport
 https://delivery.macan.live/stream/macan_sport_10/index.m3u8?token=8zOOHzs7&v=20200202OHzs7&v=20200202
@@ -535,8 +547,8 @@ https://delivery.macan.live/stream/macan_sport_12/index.m3u8?token=8zOOHzs7&v=20
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/fadhilspooky/indiahome/master/assets/images/channels/logo_ass4.png" group-title="SPORT", Astro Super Sport 4
 https://delivery.macan.live/stream/macan_sport_13/index.m3u8?token=8zOOHzs7&v=20200202OHzs7&v=20200202
 
-# tvg-logo="https://raw.githubusercontent.com/fadhilspooky/indiahome/master/assets/images/channels/logo_beinSPORT.png" group-title="SPORT", BeIN Sport
-#https://delivery.macan.live/stream/macan_sport_16/index.m3u8?token=8zOOHzs7&v=20200202OHzs7&v=20200202
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/fadhilspooky/indiahome/master/assets/images/channels/logo_beinSPORT.png" group-title="SPORT", BeIN Sport
+https://delivery.macan.live/stream/macan_sport_16/index.m3u8?token=8zOOHzs7&v=20200202OHzs7&v=20200202
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_bein1_big1.png" group-title="SPORT", BeIN Sport 1
 https://delivery.macan.live/stream/macan_sport_1/index.m3u8?token=8zOOHzs7&v=20200202OHzs7&v=20200202
@@ -609,27 +621,6 @@ https://streamer-1.toffeelive.com/live/sony_espn_576/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/fadhilspooky/indiahome/master/assets/images/channels/logo_sportsil.png" group-title="SPORT", SPORT ILUSTRATED
 https://livetvhooq.akamaized.net:443/aead26cfa8f6495c98e63a02d4e2f20e/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1573600461~exp=9007200828341452~acl=/aead26cfa8f6495c98e63a02d4e2f20e/*/profile_0/chunklist.m3u8*~hmac=392ded93cf19d860c6adb4e844992daec4e7c50e7525a525551766b59d3221f1
 
-#EXTINF:-1 group-title="SPORT" tvg-logo="KOSONG", Sport 37
-https://delivery.macan.live/stream/macan_sport_37/index.m3u8?token=8zOOHzs7&v=20200202OHzs7&v=20200202
-
-#EXTINF:-1 group-title="SPORT" tvg-logo="KOSONG", Sport 40
-https://delivery.macan.live/stream/macan_sport_40/index.m3u8?token=8zOOHzs7&v=20200202OHzs7&v=20200202
-
-#EXTINF:-1 group-title="SPORT" tvg-logo="KOSONG", Sport 41
-https://delivery.macan.live/stream/macan_sport_41/index.m3u8?token=8zOOHzs7&v=20200202OHzs7&v=20200202
-
-#EXTINF:-1 group-title="SPORT" tvg-logo="KOSONG", Sport 42
-https://delivery.macan.live/stream/macan_sport_42/index.m3u8?token=8zOOHzs7&v=20200202OHzs7&v=20200202
-
-#EXTINF:-1 group-title="SPORT" tvg-logo="KOSONG", Sport 43
-https://delivery.macan.live/stream/macan_sport_43/index.m3u8?token=8zOOHzs7&v=20200202OHzs7&v=20200202
-
-#EXTINF:-1 group-title="SPORT" tvg-logo="KOSONG", Sport 44
-https://delivery.macan.live/stream/macan_sport_44/index.m3u8?token=8zOOHzs7&v=20200202OHzs7&v=20200202
-
-#EXTINF:-1 group-title="SPORT" tvg-logo="KOSONG", Sport 45
-https://delivery.macan.live/stream/macan_sport_45/index.m3u8?token=8zOOHzs7&v=20200202OHzs7&v=20200202
-
 #EXTINF:-1 group-title="SPORT" tvg-logo="KOSONG", Super Sport 1
 https://delivery.macan.live/stream/macan_sport_24/index.m3u8?token=8zOOHzs7&v=20200202OHzs7&v=20200202
 
@@ -670,7 +661,28 @@ https://delivery.macan.live/stream/macan_sport_35/index.m3u8?token=8zOOHzs7&v=20
 http://210.210.155.35/session/69e800f6-97c0-11e9-888f-b82a72d63267/qwr9ew/s/s107/02.m3u8
 
 #EXTINF tvg-logo="https://raw.githubusercontent.com/fadhilspooky/indiahome/master/assets/images/channels/logo_wwenetwork.png" group-title="SPORT", WWE Network
-#https://delivery.macan.live/stream/macan_sport_15/index.m3u8?token=8zOOHzs7&v=20200202OHzs7&v=20200202
+https://delivery.macan.live/stream/macan_sport_15/index.m3u8?token=8zOOHzs7&v=20200202OHzs7&v=20200202
+
+#EXTINF:-1 group-title="SPORT" tvg-logo="KOSONG", Sport Live 1
+https://delivery.macan.live/stream/macan_sport_37/index.m3u8?token=8zOOHzs7&v=20200202OHzs7&v=20200202
+
+#EXTINF:-1 group-title="SPORT" tvg-logo="KOSONG", Sport Live 2
+https://delivery.macan.live/stream/macan_sport_40/index.m3u8?token=8zOOHzs7&v=20200202OHzs7&v=20200202
+
+#EXTINF:-1 group-title="SPORT" tvg-logo="KOSONG", Sport Live 3
+https://delivery.macan.live/stream/macan_sport_41/index.m3u8?token=8zOOHzs7&v=20200202OHzs7&v=20200202
+
+#EXTINF:-1 group-title="SPORT" tvg-logo="KOSONG", Sport Live 4
+https://delivery.macan.live/stream/macan_sport_42/index.m3u8?token=8zOOHzs7&v=20200202OHzs7&v=20200202
+
+#EXTINF:-1 group-title="SPORT" tvg-logo="KOSONG", Sport Live 5
+https://delivery.macan.live/stream/macan_sport_43/index.m3u8?token=8zOOHzs7&v=20200202OHzs7&v=20200202
+
+#EXTINF:-1 group-title="SPORT" tvg-logo="KOSONG", Sport Live 5
+https://delivery.macan.live/stream/macan_sport_44/index.m3u8?token=8zOOHzs7&v=20200202OHzs7&v=20200202
+
+#EXTINF:-1 group-title="SPORT" tvg-logo="KOSONG", Sport Live 7
+https://delivery.macan.live/stream/macan_sport_45/index.m3u8?token=8zOOHzs7&v=20200202OHzs7&v=20200202
 
 
 #NEWS
