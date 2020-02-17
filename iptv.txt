@@ -456,7 +456,7 @@ https://delivery.macan.live/stream/cinemax/index.m3u8?token=8zOOHzs7&v=20200202O
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_cinemaworld_big.png" group-title="MOVIE", Cinema World
 https://anevia115.mncnow.id/live/eds/CinemaWorld/sa_hls/CinemaWorld.m3u8
 
-#EXTINF:-1 group-title="MOVIE" tvg-logo="KOSONG", Flik
+#EXTINF:-1 group-title="MOVIE" tvg-logo="https://www.useetv.com/assets/images/channel/logo_flik_big1.png", Flik
 https://delivery.macan.live/stream/flik/index.m3u8?token=8zOOHzs7&v=20200202OHzs7&v=20200202
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/fadhilspooky/indiahome/master/assets/images/channels/logo_foxm.png" group-title="MOVIE", FOX Movies
@@ -698,7 +698,7 @@ https://anevia115.mncnow.id/live/eds/AustraliaPlus/sa_hls/AustraliaPlus.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_aljazeera_big1.png" group-title="NEWS", Al-jazeera
 http://45.126.83.51/qwr9ew/s/s17/index.m3u8
 
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="KOSONG", Astro Awani
+#EXTINF:-1 group-title="NEWS" tvg-logo="KOSONG", Astro Awani
 https://delivery.macan.live/stream/astro_awani/index.m3u8?token=8zOOHzs7&v=20200202OHzs7&v=20200202
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/fadhilspooky/indiahome/master/assets/images/channels/logo_bbcwn.png" group-title="NEWS", BBC World News
