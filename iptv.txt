@@ -272,10 +272,8 @@ https://anevia115.mncnow.id/live/eds/ChannelV/sa_hls/ChannelV.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/fadhilspooky/indiahome/master/assets/images/channels/logo_clubbingtv.png" group-title="MUSIC", Clubbing TV
 https://anevia115.mncnow.id/live/eds/MyTV/sa_hls/MyTV.m3u8
+#https://anevia115.mncnow.id/live/eds/ClubbingTV/sa_hls/ClubbingTV.m3u8
 #https://livetvhooq.akamaized.net:443/923e04bf28d6488e85831094a2cfc33d/eu-central-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1573597850~exp=9007200828338841~acl=/923e04bf28d6488e85831094a2cfc33d/*/profile_0/chunklist.m3u8*~hmac=3f8b35244cac9f49ce5491e590812bb8770317e3206bb1603f4a8aa41efe6ff2
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/fadhilspooky/indiahome/master/assets/images/channels/logo_clubbingtv.png" group-title="MUSIC", Clubbing TV 2
-https://anevia115.mncnow.id/live/eds/ClubbingTV/sa_hls/ClubbingTV.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/fadhilspooky/indiahome/master/assets/images/channels/logo_dangdutz.png" group-title="MUSIC", DANGDUTZ
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:dangdutch/chunklist_b2288000.m3u8
@@ -475,7 +473,7 @@ https://anevia115.mncnow.id/live/eds/FoxFamilyMovies/sa_hls/FoxFamilyMovies.m3u8
 #http://203.153.218.28:9981/stream/channelid/1949182550?ticket=C4FE458C6B9C4686BA0966E59174C0D6805DBB39&profile=pass
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/fadhilspooky/indiahome/master/assets/images/channels/logo_foxfm.png" group-title="MOVIE", FOX Family Movies 2
-https://anevia115.mncnow.id/live/eds/FoxFamilyMovies/sa_hls/FoxFamilyMovies-mp4a_66000_eng=2.m3u8
+https://anevia115.mncnow.id/live/eds/FoxFamilyMovies/sa_hls/FoxFamilyMovies-avc1_2499968=11-mp4a_66000_eng=2.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/fadhilspooky/indiahome/master/assets/images/channels/logo_hbo.png" group-title="MOVIE", HBO
 https://delivery.macan.live/stream/hbo/index.m3u8?token=8zOOHzs7&v=20200202OHzs7&v=20200202
