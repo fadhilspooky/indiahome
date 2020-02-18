@@ -112,14 +112,14 @@ https://anevia115.mncnow.id/live/eds/TVOne/sa_hls/TVOne.m3u8
 #https://delivery.macan.live/stream/id_jtv/index.m3u8?token=8zOOHzs7&v=20200202OHzs7&v=20200202
 #https://livetvhooq.akamaized.net:443/205606ce940f479dafb9ba6d71d61139/ap-southeast-1/5493668622001/profile_2/chunklist.m3u8?hdnts=st=1573597436~exp=9007200828338427~acl=/205606ce940f479dafb9ba6d71d61139/*/profile_2/chunklist.m3u8*~hmac=4ee84b00deb7c571a099059b60b98fea70033a603996d9091fe00244acd56f79
 
-#RELIGILE
-#EXTINF:-1 group-title="RELIGILE" tvg-logo="KOSONG", Astro Oasis
+#RELIGI
+#EXTINF:-1 group-title="RELIGI" tvg-logo="KOSONG", Astro Oasis
 https://delivery.macan.live/stream/astro_oasis/index.m3u8?token=8zOOHzs7&v=20200202OHzs7&v=20200202
 
-#EXTINF:-1 group-title="RELIGILE" tvg-logo="KOSONG", Muslim Tv
+#EXTINF:-1 group-title="RELIGI" tvg-logo="KOSONG", Muslim Tv
 https://anevia115.mncnow.id/live/eds/MNCMuslim/sa_hls/MNCMuslim.m3u8
 
-#EXTINF:-1 group-title="RELIGILE" tvg-logo="KOSONG", Salam TV
+#EXTINF:-1 group-title="RELIGI" tvg-logo="KOSONG", Salam TV
 https://delivery.macan.live/stream/salam_tv/index.m3u8?token=8zOOHzs7&v=20200202OHzs7&v=20200202
 
 #KNOWLEDGE
@@ -158,7 +158,6 @@ https://anevia115.mncnow.id/live/eds/NatGeoWild/sa_hls/NatGeoWild.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/fadhilspooky/indiahome/master/assets/images/channels/logo_smithsonian.png" group-title="KNOWLEDGE", Smithsonian Channel
 https://delivery.macan.live/stream/smithsonian/index.m3u8?token=8zOOHzs7&v=20200202OHzs7&v=20200202
-#https://siomay.macan.live/stream/smithsonian/playlist.m3u8?
 
 
 #KIDS
@@ -274,6 +273,9 @@ https://anevia115.mncnow.id/live/eds/ChannelV/sa_hls/ChannelV.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/fadhilspooky/indiahome/master/assets/images/channels/logo_clubbingtv.png" group-title="MUSIC", Clubbing TV
 https://anevia115.mncnow.id/live/eds/MyTV/sa_hls/MyTV.m3u8
 #https://livetvhooq.akamaized.net:443/923e04bf28d6488e85831094a2cfc33d/eu-central-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1573597850~exp=9007200828338841~acl=/923e04bf28d6488e85831094a2cfc33d/*/profile_0/chunklist.m3u8*~hmac=3f8b35244cac9f49ce5491e590812bb8770317e3206bb1603f4a8aa41efe6ff2
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/fadhilspooky/indiahome/master/assets/images/channels/logo_clubbingtv.png" group-title="MUSIC", Clubbing TV 2
+https://anevia115.mncnow.id/live/eds/ClubbingTV/sa_hls/ClubbingTV.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/fadhilspooky/indiahome/master/assets/images/channels/logo_dangdutz.png" group-title="MUSIC", DANGDUTZ
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:dangdutch/chunklist_b2288000.m3u8
@@ -472,6 +474,8 @@ https://anevia115.mncnow.id/live/eds/FoxFamilyMovies/sa_hls/FoxFamilyMovies.m3u8
 #https://delivery.macan.live/stream/id_foxfamilymovies/index.m3u8?token=8zOOHzs7&v=20200202OHzs7&v=20200202
 #http://203.153.218.28:9981/stream/channelid/1949182550?ticket=C4FE458C6B9C4686BA0966E59174C0D6805DBB39&profile=pass
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/fadhilspooky/indiahome/master/assets/images/channels/logo_foxfm.png" group-title="MOVIE", FOX Family Movies 2
+https://anevia115.mncnow.id/live/eds/FoxFamilyMovies/sa_hls/FoxFamilyMovies-mp4a_66000_eng=2.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/fadhilspooky/indiahome/master/assets/images/channels/logo_hbo.png" group-title="MOVIE", HBO
 https://delivery.macan.live/stream/hbo/index.m3u8?token=8zOOHzs7&v=20200202OHzs7&v=20200202
