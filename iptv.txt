@@ -113,6 +113,9 @@ https://anevia115.mncnow.id/live/eds/TVOne/sa_hls/TVOne.m3u8
 #https://livetvhooq.akamaized.net:443/205606ce940f479dafb9ba6d71d61139/ap-southeast-1/5493668622001/profile_2/chunklist.m3u8?hdnts=st=1573597436~exp=9007200828338427~acl=/205606ce940f479dafb9ba6d71d61139/*/profile_2/chunklist.m3u8*~hmac=4ee84b00deb7c571a099059b60b98fea70033a603996d9091fe00244acd56f79
 
 #RELIGI
+#EXTINF:-1 group-title="RELIGI" tvg-logo="KOSONG", Al Quran Al Kareem
+https://anevia115.mncnow.id/live/eds/AlQuranAlKareem/sa_hls/AlQuranAlKareem.m3u8
+
 #EXTINF:-1 group-title="RELIGI" tvg-logo="KOSONG", Astro Oasis
 https://delivery.macan.live/stream/astro_oasis/index.m3u8?token=8zOOHzs7&v=20200202OHzs7&v=20200202
 
@@ -128,8 +131,8 @@ https://anevia115.mncnow.id/live/eds/TawafTV/sa_hls/TawafTV.m3u8
 #EXTINF:-1 group-title="RELIGI" tvg-logo="KOSONG", TV9 Nusantara
 https://anevia115.mncnow.id/live/eds/TV9/sa_hls/TV9.m3u8
 
-#EXTINF:-1 group-title="RELIGI" tvg-logo="KOSONG", Al Quran Al Kareem
-https://anevia115.mncnow.id/live/eds/AlQuranAlKareem/sa_hls/AlQuranAlKareem.m3u8
+#EXTINF:-1 group-title="RELIGI" tvg-logo="KOSONG", TVMU
+https://anevia115.mncnow.id/live/eds/TVMuhammadiyah/sa_hls/TVMuhammadiyah.m3u8
 
 
 #KNOWLEDGE
@@ -499,7 +502,6 @@ https://delivery.macan.live/stream/hbo_hits/index.m3u8?token=8zOOHzs7&v=20200202
 https://delivery.macan.live/stream/hbo_family/index.m3u8?token=8zOOHzs7&v=20200202OHzs7&v=20200202
 #http://203.153.218.28:9981/stream/channelid/1316004766?ticket=5F57E6E5C9291700E8B75D86F760C75666701FBB&profile=pass
 #https://anevia115.mncnow.id/live/eds/HBOFamily/sa_hls/HBOFamily.m3u8
-#https://delivery.macan.live/stream/hbo_family/index.m3u8?token=8zOOHzs7&v=20200202OHzs7&v=20200202
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/fadhilspooky/indiahome/master/assets/images/channels/logo_hbos.png" group-title="MOVIE", HBO Signature
 https://delivery.macan.live/stream/hbo_signature/index.m3u8?token=8zOOHzs7&v=20200202OHzs7&v=20200202
@@ -570,18 +572,14 @@ https://delivery.macan.live/stream/macan_sport_13/index.m3u8?token=8zOOHzs7&v=20
 https://delivery.macan.live/stream/macan_sport_16/index.m3u8?token=8zOOHzs7&v=20200202OHzs7&v=20200202
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_bein1_big1.png" group-title="SPORT", BeIN Sport 1
-https://delivery.macan.live/stream/macan_sport_1/index.m3u8?token=8zOOHzs7&v=20200202OHzs7&v=20200202
+https://anevia115.mncnow.id/live/eds/BeIN1/sa_hls/BeIN1.m3u8
+#https://delivery.macan.live/stream/macan_sport_1/index.m3u8?token=8zOOHzs7&v=20200202OHzs7&v=20200202
 #https://www.livedoomovie.com/02_epl1_720p/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_bein1_big1.png" group-title="SPORT", BeIN Sport 1++
-https://anevia115.mncnow.id/live/eds/BeIN1/sa_hls/BeIN1.m3u8
-
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_bein2_big1.png" group-title="SPORT", BeIN Sport 2
-https://delivery.macan.live/stream/macan_sport_2/index.m3u8?token=8zOOHzs7&v=20200202OHzs7&v=20200202
-#https://www.livedoomovie.com/02_epl2_720p/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_bein2_big1.png" group-title="SPORT", BeIN Sport 2++
 https://anevia115.mncnow.id/live/eds/BeIN2/sa_hls/BeIN2.m3u8
+#https://delivery.macan.live/stream/macan_sport_2/index.m3u8?token=8zOOHzs7&v=20200202OHzs7&v=20200202
+#https://www.livedoomovie.com/02_epl2_720p/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_champ1_big.png" group-title="SPORT", Champions TV 1
 https://delivery.macan.live/stream/macan_sport_5/index.m3u8?token=8zOOHzs7&v=20200202OHzs7&v=20200202
@@ -778,7 +776,8 @@ https://anevia115.mncnow.id/live/eds/MNCNews/sa_hls/MNCNews.m3u8
 https://anevia115.mncnow.id/live/eds/RTEnglish/sa_hls/RTEnglish.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/fadhilspooky/indiahome/master/assets/images/channels/logo_skynews.png" group-title="NEWS", Sky News
-http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/06.m3u8
+https://anevia115.mncnow.id/live/eds/SkyNews/sa_hls/SkyNews.m3u8
+#http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/06.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/fadhilspooky/indiahome/master/assets/images/channels/logo_trtworld.png" group-title="NEWS", TRT World
 https://anevia115.mncnow.id/live/eds/TRTWorld/sa_hls/TRTWorld.m3u8
