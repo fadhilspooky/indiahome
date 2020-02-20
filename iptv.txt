@@ -434,11 +434,11 @@ https://anevia115.mncnow.id/live/eds/AXN/sa_hls/AXN.m3u8
 #https://delivery.macan.live/stream/id_axn/index.m3u8?token=7cJgHXFB&v=20200202OHzs7&v=20200202
 #http://210.210.155.66/h/h141/02.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_citradrama_big.png" group-title="ENTERTAINMENT", Citra Drama
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_citradrama_big.png" group-title="TV SERIES", Citra Drama
 https://delivery.macan.live/stream/citra_drama/index.m3u8?token=7cJgHXFB&v=20200202OHzs7&v=20200202
 #https://dl.dropbox.com/s/2f1e4vq02tpu2pc/Citra%20drama.m3u8?dl=0
 
-#EXTINF:-1 group-title="RELIGI" tvg-logo="KOSONG", Citra Muslim
+#EXTINF:-1 group-title="RELIGI" tvg-logo="TV SERIES", Citra Muslim
 https://delivery.macan.live/stream/citra_muslim/index.m3u8?token=7cJgHXFB&v=20200202OHzs7&v=20200202
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/fadhilspooky/indiahome/master/assets/images/channels/logo_fox.png" group-title="TV SERIES", FOX
