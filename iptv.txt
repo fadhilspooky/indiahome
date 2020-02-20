@@ -119,6 +119,9 @@ https://anevia115.mncnow.id/live/eds/AlQuranAlKareem/sa_hls/AlQuranAlKareem.m3u8
 #EXTINF:-1 group-title="RELIGI" tvg-logo="KOSONG", Astro Oasis
 https://delivery.macan.live/stream/astro_oasis/index.m3u8?token=7cJgHXFB&v=20200202OHzs7&v=20200202
 
+#EXTINF:-1 group-title="RELIGI" tvg-logo="KOSONG", Citra Muslim
+https://delivery.macan.live/stream/citra_muslim/index.m3u8?token=7cJgHXFB&v=20200202OHzs7&v=20200202
+
 #EXTINF:-1 group-title="RELIGI" tvg-logo="KOSONG", Muslim Tv
 https://anevia115.mncnow.id/live/eds/MNCMuslim/sa_hls/MNCMuslim.m3u8
 
@@ -287,6 +290,9 @@ https://anevia115.mncnow.id/live/eds/TLC/sa_hls/TLC.m3u8
 https://anevia115.mncnow.id/live/eds/ChannelV/sa_hls/ChannelV.m3u8
 #https://delivery.macan.live/stream/id_channelv/index.m3u8?token=7cJgHXFB&v=20200202OHzs7&v=20200202
 
+#EXTINF:-1 tvg-logo="KOSONG" group-title="MUSIC", Citra Dangdut
+https://delivery.macan.live/stream/citra_dangdut/index.m3u8?token=7cJgHXFB&v=20200202OHzs7&v=20200202
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/fadhilspooky/indiahome/master/assets/images/channels/logo_clubbingtv.png" group-title="MUSIC", Clubbing TV
 https://anevia115.mncnow.id/live/eds/MyTV/sa_hls/MyTV.m3u8
 #https://anevia115.mncnow.id/live/eds/ClubbingTV/sa_hls/ClubbingTV.m3u8
@@ -351,8 +357,8 @@ https://delivery.macan.live/stream/blue_ant_extreme/index.m3u8?token=7cJgHXFB&v=
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_cctv4_big1.png" group-title="ENTERTAINMENT", CCTV 4
 http://45.126.83.51/qwr9ew/s/s19/01.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_citradrama_big.png" group-title="ENTERTAINMENT", Citra Drama
-https://dl.dropbox.com/s/2f1e4vq02tpu2pc/Citra%20drama.m3u8?dl=0
+#EXTINF:-1 tvg-logo="KOSONG" group-title="ENTERTAINMENT", Citra Entertainment
+https://delivery.macan.live/stream/citra_entertainment/index.m3u8?token=7cJgHXFB&v=20200202OHzs7&v=20200202
 
 # tvg-logo="https://raw.githubusercontent.com/fadhilspooky/indiahome/master/assets/images/channels/" group-title="ENTERTAINMENT", DIVA
 #https://delivery.macan.live/stream/diva/index.m3u8?token=7cJgHXFB&v=20200202OHzs7&v=20200202
@@ -435,6 +441,9 @@ https://anevia115.mncnow.id/live/eds/AXN/sa_hls/AXN.m3u8
 #https://delivery.macan.live/stream/id_axn/index.m3u8?token=7cJgHXFB&v=20200202OHzs7&v=20200202
 #http://210.210.155.66/h/h141/02.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_citradrama_big.png" group-title="ENTERTAINMENT", Citra Drama
+https://dl.dropbox.com/s/2f1e4vq02tpu2pc/Citra%20drama.m3u8?dl=0
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/fadhilspooky/indiahome/master/assets/images/channels/logo_fox.png" group-title="TV SERIES", FOX
 https://anevia115.mncnow.id/live/eds/FoxChannel/sa_hls/FoxChannel.m3u8
 #https://delivery.macan.live/stream/id_fox/index.m3u8?token=7cJgHXFB&v=20200202OHzs7&v=20200202
@@ -472,6 +481,9 @@ https://anevia115.mncnow.id/live/eds/CelestialClassic/sa_hls/CelestialClassic.m3
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/fadhilspooky/indiahome/master/assets/images/channels/logo_cinemax.png" group-title="MOVIE", CINEMAX
 https://delivery.macan.live/stream/cinemax/index.m3u8?token=7cJgHXFB&v=20200202OHzs7&v=20200202
 #https://anevia115.mncnow.id/live/eds/CinemaxHD/sa_hls/CinemaxHD.m3u8
+
+#EXTINF:-1 tvg-logo="KOSONG" group-title="MOVIE", Citra Bisokop
+https://delivery.macan.live/stream/citra_bioskop/index.m3u8?token=7cJgHXFB&v=20200202OHzs7&v=20200202
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_cinemaworld_big.png" group-title="MOVIE", Cinema World
 https://anevia115.mncnow.id/live/eds/CinemaWorld/sa_hls/CinemaWorld.m3u8
