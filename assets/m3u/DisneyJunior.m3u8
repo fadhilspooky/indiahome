@@ -1,6 +1,6 @@
 #EXTM3U
 #EXT-X-VERSION:5
-#EXT-X-MEDIA:TYPE=AUDIO,URI="https://raw.githubusercontent.com/fadhilspooky/indiahome/master/assets/audio/DisneyJr.m3u8",GROUP-ID="audio-AACL-99",LANGUAGE="en",NAME="Indonesian",DEFAULT=YES,AUTOSELECT=YES,CHANNELS="2"
+#EXT-X-MEDIA:TYPE=AUDIO,URI="https://raw.githubusercontent.com/fadhilspooky/indiahome/master/assets/audio/DisneyJr.m3u8",GROUP-ID="audio-AACL-96",LANGUAGE="en",NAME="Indonesian",DEFAULT=YES,AUTOSELECT=YES,CHANNELS="2"
 #EXT-X-MEDIA:TYPE=AUDIO,URI="https://anevia115.mncnow.id/live/eds/DisneyJunior/sa_hls/DisneyJunior-mp4a_66000_eng=2.m3u8",GROUP-ID="audio-AACL-66",LANGUAGE="en",NAME="English",AUTOSELECT=YES,CHANNELS="2"
 #EXT-X-MEDIA:TYPE=AUDIO,URI="https://anevia115.mncnow.id/live/eds/DisneyJunior/sa_hls/DisneyJunior-mp4a_98800_eng=6.m3u8",GROUP-ID="audio-AACL-99",LANGUAGE="en",NAME="English",AUTOSELECT=YES,CHANNELS="2"
 #EXT-X-STREAM-INF:BANDWIDTH=248169,AVERAGE-BANDWIDTH=225609,CODECS="avc1.4d401f,mp4a.40.2",RESOLUTION=256x144,FRAME-RATE=25.000,HDCP-LEVEL=TYPE-0,AUDIO="audio-AACL-66"
