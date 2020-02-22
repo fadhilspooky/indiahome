@@ -216,6 +216,9 @@ https://anevia115.mncnow.id/live/eds/DisneyXD/sa_hls/DisneyXD.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_duck_big1.png" group-title="KIDS", Duck TV
 http://livecdnh3.tvanywhere.ae/hls/duck/06.m3u8
 
+#EXTINF:-1 tvg-logo="KOSONG" group-title="KIDS", Dreamworks
+https://x1.broiptv.online/play/gusmanpakaya@gmail.com/tKz22dzF/xlXW2gZR/rattus/dreamworks/playlist.m3u8"
+
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_horee_big.png" group-title="KIDS", Horee
 https://dl.dropbox.com/s/b6fas6znw4nylec/Hore.m3u8
 
@@ -603,7 +606,7 @@ https://delivery.macan.live/stream/macan_sport_6/index.m3u8?token=7cJgHXFB&v=202
 #https://dl.dropbox.com/s/znpvtme2xmrlij2/Champ2.m3u8?dl=0
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_egg_big1.png" group-title="SPORT", EGG Network
-https://delivery.macan.live/stream/macan_sport_8/index.m3u8?token=7cJgHXFB&v=20200202OHzs7&v=20200202
+SF
 #http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch319)/02.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/fadhilspooky/indiahome/master/assets/images/channels/logo_fightsports.png" group-title="SPORT", Fight Sport
