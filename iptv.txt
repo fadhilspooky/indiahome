@@ -381,6 +381,9 @@ https://anevia115.mncnow.id/live/eds/Lifetime/sa_hls/Lifetime.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_kix_big.png" group-title="ENTERTAINMENT", KIX
 https://anevia115.mncnow.id/live/eds/KIX/sa_hls/KIX.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_kix_big.png" group-title="ENTERTAINMENT", KIX 2
+https://raw.githubusercontent.com/fadhilspooky/indiahome/master/assets/m3u/KIX.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/fadhilspooky/indiahome/master/assets/images/channels/logo_kdrama.png" group-title="ENTERTAINMENT", K Drama
 http://210.210.155.35/session/971493a0-0192-11ea-b1fb-b82a72d63267/qwr9ew/s/s42/index.m3u8
 
