@@ -585,6 +585,15 @@ https://delivery.macan.live/stream/zeebioskop/index.m3u8?token=Yq91Jdf0
 
  
 #SPORT
+#EXTINF:-1 tvg-logo="KOSONG" group-title="SPORT", Liga 1 #1
+https://delivery.macan.live/stream/macan_sport_43/index.m3u8?token=Yq91Jdf0
+
+#EXTINF:-1 tvg-logo="KOSONG" group-title="SPORT", Liga 1 #2
+https://delivery.macan.live/stream/macan_sport_44/index.m3u8?token=Yq91Jdf0
+
+#EXTINF:-1 tvg-logo="KOSONG" group-title="SPORT", Liga 1 #3
+https://delivery.macan.live/stream/macan_sport_45/index.m3u8?token=Yq91Jdf0
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/fadhilspooky/indiahome/master/assets/images/channels/logo_mncsports.png" group-title="SPORT", MNC Sport
 https://anevia115.mncnow.id/live/eds/MNCSports/sa_hls/MNCSports.m3u8
 
@@ -609,15 +618,14 @@ https://delivery.macan.live/stream/macan_sport_42/index.m3u8?token=Yq91Jdf0
 #EXTINF:-1 group-title="SPORT" tvg-logo="KOSONG", Astro Setanta
 https://delivery.macan.live/stream/macan_sport_41/index.m3u8?token=Yq91Jdf0
 
-#EXTINF:-1 group-title="SPORT" tvg-logo="KOSONG", Astro Sport Special 3
-#https://delivery.macan.live/stream/macan_sport_19/index.m3u8?token=Yq91Jdf0
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/fadhilspooky/indiahome/master/assets/images/channels/" group-title="SPORT", Astro Sport Special 2
 https://delivery.macan.live/stream/macan_sport_18/index.m3u8?token=Yq91Jdf0
 
-#EXTINF:-1 group-title="SPORT" tvg-logo="KOSONG", Astro Sport Special 4
-#https://delivery.macan.live/stream/macan_sport_20/index.m3u8?token=Yq91Jdf0
+#EXTINF:-1 group-title="SPORT" tvg-logo="KOSONG", Astro Sport Special 3
+https://delivery.macan.live/stream/macan_sport_19/index.m3u8?token=Yq91Jdf0
 
+#EXTINF:-1 group-title="SPORT" tvg-logo="KOSONG", Astro Sport Special 4
+https://delivery.macan.live/stream/macan_sport_20/index.m3u8?token=Yq91Jdf0
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/fadhilspooky/indiahome/master/assets/images/channels/logo_ass.png" group-title="SPORT", Astro Supersport
 https://delivery.macan.live/stream/macan_sport_10/index.m3u8?token=Yq91Jdf0
